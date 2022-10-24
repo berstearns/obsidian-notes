@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "on-the-personalization-of-classification-models-for-human-activity-recognition.md",
+            "file": "react native testing.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#paper",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "on-the-personalization-of-classification-models-for-human-activity-recognition.md",
+                "file": "react native testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,9 +89,9 @@
   },
   "active": "a5e011055f1c80e5",
   "lastOpenFiles": [
+    "on-the-personalization-of-classification-models-for-human-activity-recognition.md",
     "search-personalization-using-machine-learning.md",
     "personalization-in-pratice.md",
-    "on-the-personalization-of-classification-models-for-human-activity-recognition.md",
     "leveraging-predictive-modelling-machine-learning-personalization.md",
     "tests-in-react-native-with-testing-library.md",
     "mastering-typescript.md",
