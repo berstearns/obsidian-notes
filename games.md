@@ -1,0 +1,11 @@
+- worms
+- gunbound
+- airconsole
+- https://myemulator.online/nintendo-64/bomberman-64
+- https://www.nexon.com/kartdrift/en/main
+- https://play.google.com/store/apps/details?id=com.worms3.app&hl=en&gl=US
+- https://boardgamegeek.com/image/5185341/eclipse-second-dawn-galaxy
+- https://boardgamegeek.com/boardgame/1927/munchkin/ratings?rated=1&comment=1
+- https://boardgamegeek.com/video/396828/flamecraft/official-flamecraft-how-play-publisher-peter-vaugh
+- https://www.amazon.co.uk/Z-Man-Games-ZMGZF001-Project-Multicolour/dp/B076PQRFZ4/ref=sr_1_1?crid=1TFJ9RQ4J1GJV&keywords=gaia+project&qid=1663934054&sprefix=gaia+project%2Caps%2C69&sr=8-1
+- 

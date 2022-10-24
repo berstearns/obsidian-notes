@@ -1,0 +1,2 @@
+-> pharma vs non pharma
+-> rule based implementation 

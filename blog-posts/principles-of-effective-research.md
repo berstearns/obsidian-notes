@@ -1,0 +1,1 @@
+https://michaelnielsen.org/blog/principles-of-effective-research/

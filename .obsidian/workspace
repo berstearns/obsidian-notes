@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "0dc3ff144bc30a73",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5e011055f1c80e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "on-the-personalization-of-classification-models-for-human-activity-recognition.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4bf384d032fa5689",
+    "type": "split",
+    "children": [
+      {
+        "id": "28903703a6e21668",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9f9ce51f9f6dfd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9c52861bb387b5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#paper",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a1b9d1dcc9529069",
+    "type": "split",
+    "children": [
+      {
+        "id": "20dc3eef37d03a66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "524d99916766dbc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "on-the-personalization-of-classification-models-for-human-activity-recognition.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a5e011055f1c80e5",
+  "lastOpenFiles": [
+    "search-personalization-using-machine-learning.md",
+    "personalization-in-pratice.md",
+    "on-the-personalization-of-classification-models-for-human-activity-recognition.md",
+    "leveraging-predictive-modelling-machine-learning-personalization.md",
+    "tests-in-react-native-with-testing-library.md",
+    "mastering-typescript.md",
+    "A Blueprint for Production-Ready Web Applications pytho typescript and aws.md",
+    "libgen-aws-books.md",
+    "pyscaffold.md",
+    "algorithmic-thinking-python.md"
+  ]
+}

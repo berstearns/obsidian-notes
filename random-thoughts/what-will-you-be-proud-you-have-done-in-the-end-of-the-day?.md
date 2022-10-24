@@ -1,0 +1,12 @@
+
+- Knowledge, Problem Solving & Expertise
+	- competitive programming and low level programming
+	- OCR
+- Masters
+	- being able to implement bert for classification
+		- generate the c4 corrupted data
+- Entrepeneurship
+	- makeurbook
+- Health & Perfomance
+	- go for a walk
+	- have deep focus sessions

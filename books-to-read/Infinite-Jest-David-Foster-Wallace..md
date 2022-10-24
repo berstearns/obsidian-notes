@@ -1,0 +1,5 @@
+_**Infinite Jest**_ is a novel by American writer [David Foster Wallace](https://en.wikipedia.org/wiki/David_Foster_Wallace "David Foster Wallace"). The novel has an unconventional [narrative structure](https://en.wikipedia.org/wiki/Narrative_structure "Narrative structure") and includes hundreds of extensive [endnotes](https://en.wikipedia.org/wiki/Endnote "Endnote"), some with [footnotes](https://en.wikipedia.org/wiki/Footnote "Footnote") of their own.
+
+Categorized as an [encyclopedic novel](https://en.wikipedia.org/wiki/Encyclopedic_novel "Encyclopedic novel"),[[1]](https://en.wikipedia.org/wiki/Infinite_Jest#cite_note-1) _Infinite Jest_ is featured in _[TIME](https://en.wikipedia.org/wiki/Time_(magazine) "Time (magazine)")_ magazine's list of the 100 best English-language novels published between 1923 and 2005.[[2]](https://en.wikipedia.org/wiki/Infinite_Jest#cite_note-Time-2)
+
+A literary fiction bestseller after having sold 44,000 hardcover copies in its first year of publication,[[3]](https://en.wikipedia.org/wiki/Infinite_Jest#cite_note-3) the novel has since sold more than a million copies worldwide
