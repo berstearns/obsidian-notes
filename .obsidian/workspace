@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a5e011055f1c80e5",
+        "id": "aec0bdab7d376c17",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "react native testing.md",
+            "file": "_____todos.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "todos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "157bd056cfa8eb3c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react native testing.md",
+                "file": "_____todos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a5e011055f1c80e5",
+  "active": "aec0bdab7d376c17",
   "lastOpenFiles": [
-    "on-the-personalization-of-classification-models-for-human-activity-recognition.md",
-    "search-personalization-using-machine-learning.md",
-    "personalization-in-pratice.md",
-    "leveraging-predictive-modelling-machine-learning-personalization.md",
-    "tests-in-react-native-with-testing-library.md",
-    "mastering-typescript.md",
-    "A Blueprint for Production-Ready Web Applications pytho typescript and aws.md",
-    "libgen-aws-books.md",
-    "pyscaffold.md",
-    "algorithmic-thinking-python.md"
+    "Joining the blocks togetheran NLP pipeline for CALL development.md",
+    "Cipher  Faoi Gheasa A GamewithaPurpose for Irish.md",
+    "how nlp can strengthen digital game-based language learnaing resources for less resourced languages.md",
+    "Application and theory gaps during the rise of Artificial Intelligence in Education.md",
+    "types purposes and effectiveness of stateoftheart technologies for second and foreign language learning.md",
+    "Educational Technology Research Patterns in the Realm of the Digital Knowledge Age.md",
+    "Technologyenhanced collaborative language learning.md",
+    "Untitled 1.md",
+    "AIenabled adaptive learning systems.md",
+    "Twenty Years of Personalized Language Learning.md"
   ]
 }
