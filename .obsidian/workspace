@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_____todos.md",
+            "file": "personalization-in-pratice.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todos",
+                "query": "#paper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_____todos.md",
+                "file": "personalization-in-pratice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "aec0bdab7d376c17",
   "lastOpenFiles": [
+    "on-the-personalization-of-classification-models-for-human-activity-recognition.md",
+    "leveraging-predictive-modelling-machine-learning-personalization.md",
+    "AIenabled adaptive learning systems.md",
+    "_____todos.md",
     "Joining the blocks togetheran NLP pipeline for CALL development.md",
     "Cipher  Faoi Gheasa A GamewithaPurpose for Irish.md",
     "how nlp can strengthen digital game-based language learnaing resources for less resourced languages.md",
     "Application and theory gaps during the rise of Artificial Intelligence in Education.md",
     "types purposes and effectiveness of stateoftheart technologies for second and foreign language learning.md",
-    "Educational Technology Research Patterns in the Realm of the Digital Knowledge Age.md",
-    "Technologyenhanced collaborative language learning.md",
-    "Untitled 1.md",
-    "AIenabled adaptive learning systems.md",
-    "Twenty Years of Personalized Language Learning.md"
+    "Educational Technology Research Patterns in the Realm of the Digital Knowledge Age.md"
   ]
 }
