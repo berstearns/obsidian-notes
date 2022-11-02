@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "0dc3ff144bc30a73",
+    "type": "split",
+    "children": [
+      {
+        "id": "25e1324e19313661",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d633f01a5baf55f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "what-type-of-vocabulary-knowledge-predicts-reading-comprehension?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f44ab2e01b6c0a94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books-to-read/mastering-typescript-enterprise-ready-modular-web-apps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bf174935224b4ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_____todos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4bf384d032fa5689",
+    "type": "split",
+    "children": [
+      {
+        "id": "28903703a6e21668",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9f9ce51f9f6dfd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9c52861bb387b5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "what-type-of",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "157bd056cfa8eb3c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a1b9d1dcc9529069",
+    "type": "split",
+    "children": [
+      {
+        "id": "20dc3eef37d03a66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "524d99916766dbc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_____todos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4bf174935224b4ba",
+  "lastOpenFiles": [
+    "_____todos.md",
+    "what-type-of-vocabulary-knowledge-predicts-reading-comprehension?.md",
+    "books-to-read/mastering-typescript-enterprise-ready-modular-web-apps.md",
+    "PhD/papers/what-type-of-vocabulary-knowledge-predicts-reading-comprehension.md",
+    "87SH2Cn0s9A-c-tutorial.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Joining the blocks togetheran NLP pipeline for CALL development.md",
+    "Cipher  Faoi Gheasa A GamewithaPurpose for Irish.md",
+    "how nlp can strengthen digital game-based language learnaing resources for less resourced languages.md"
+  ]
+}
