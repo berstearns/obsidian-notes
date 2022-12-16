@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "25e1324e19313661",
+        "id": "42192e5904320a49",
         "type": "tabs",
         "children": [
           {
-            "id": "d633f01a5baf55f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "what-type-of-vocabulary-knowledge-predicts-reading-comprehension?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f44ab2e01b6c0a94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books-to-read/mastering-typescript-enterprise-ready-modular-web-apps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bf174935224b4ba",
+            "id": "e41210f2bb467f0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0543eebfc4f9fba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PhD/topics-to-talk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb021a2374eae3c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_____todos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "454842d7c59f9450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PhD/__links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e6a9193270d42dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cardamom/learning-app/alignment task.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "what-type-of",
+                "query": "phd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a1b9d1dcc9529069",
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_____todos.md",
+                "file": "cardamom/learning-app/alignment task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4bf174935224b4ba",
+  "active": "4e6a9193270d42dd",
   "lastOpenFiles": [
+    "PhD/aied2023-call-for-aper.md",
+    "PhD/__links.md",
     "_____todos.md",
-    "what-type-of-vocabulary-knowledge-predicts-reading-comprehension?.md",
-    "books-to-read/mastering-typescript-enterprise-ready-modular-web-apps.md",
-    "PhD/papers/what-type-of-vocabulary-knowledge-predicts-reading-comprehension.md",
-    "87SH2Cn0s9A-c-tutorial.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Joining the blocks togetheran NLP pipeline for CALL development.md",
-    "Cipher  Faoi Gheasa A GamewithaPurpose for Irish.md",
-    "how nlp can strengthen digital game-based language learnaing resources for less resourced languages.md"
+    "cardamom/learning-app/alignment task.md",
+    "books-to-audio/conversions/Implementing-domain-Driven-design.md",
+    "PhD/topics-to-talk.md",
+    "makeurbook/refactor api design.md",
+    "_____PINNED.md",
+    "cardamom/learning-app/deploy app in play store.md",
+    "Untitled 3.md"
   ]
 }
