@@ -1,0 +1,28 @@
+	https://stackoverflow.com/questions/59615759/high-precision-word-alignment-algorithm-in-python
+	https://pypi.org/project/systran-align/
+	https://github.com/clab/fast_align/blob/master/src/force_align.py
+	https://www.nltk.org/api/nltk.align.html
+	https://github.com/cisnlp/simalign
+	https://github.com/neulab/awesome-align
+	https://www.ee.columbia.edu/~sfchang/course/svia/papers/brown-machine-translate-93.pdf
+	https://aclanthology.org/N13-1073/
+	https://aclanthology.org/C96-2141/
+		https://aclanthology.org/P19-1124.pdf
+		https://github.com/neulab/awesome-align
+		https://colab.research.google.com/drive/1205ubqebM0OsZa1nRgbGJBtitgHqIVv6?usp=sharing#scrollTo=7ipxcuO9vDgZ
+		https://arxiv.org/abs/2101.08231
+		https://aclanthology.org/2021.nodalida-main.7.pdf
+https://paperswithcode.com/paper/embedding-enhanced-giza-improving-low
+https://openreview.net/pdf?id=c3jvzFGYGWl
+https://paperswithcode.com/paper/leveraging-neural-machine-translation-for
+https://paperswithcode.com/paper/slua-a-super-lightweight-unsupervised-word
+https://paperswithcode.com/paper/2012-11657
+https://hub.docker.com/r/techiaith/moses-smt/tags
+https://github.com/techiaith/docker-moses-smt/blob/master/Dockerfile
+https://github.com/techiaith/docker-moses-smt/tree/master/scripts
+https://www.zora.uzh.ch/id/eprint/153213/1/153213.pdf
+https://aclanthology.org/2021.nodalida-main.7.pdf
+https://paperswithcode.com/datasets?q=&v=lst&o=match&task=word-alignment
+https://paperswithcode.com/dataset/muse
+https://paperswithcode.com/dataset/europarl-concodisco-dataset
+https://paperswithcode.com/task/word-alignment/codeless

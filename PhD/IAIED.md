@@ -1,0 +1,1 @@
+https://iaied.org/journal

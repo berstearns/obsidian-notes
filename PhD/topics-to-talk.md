@@ -1,4 +1,8 @@
-- 
+https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/digital-language-learning-dll-insights-from-behavior-cognition-and-the-brain/EAC2766155C2827B0FEE8E6B70B1D0A4-
+
+https://scholar.google.com/scholar?cites=16142615509759814685&as_sdt=2005&sciodt=0,5&hl=en
+
+
 https://github.com/chrisjbryant/errant
 https://aclanthology.org/P17-1074/
 
