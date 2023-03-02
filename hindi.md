@@ -1,3 +1,9 @@
+अगर - if
+तो - then 
+किसी - someone 
+यहाँ कोई  नहीं पढ़ सकता - nobody can study here "here any cannot study"
+शायद  -  maybe 
+चार दिन पहले - four days ago
 नल  - torneira
 बस - onibus 
 रथ - charrete

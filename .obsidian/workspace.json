@@ -4,71 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "42192e5904320a49",
+        "id": "5f529eec8a54372b",
         "type": "tabs",
         "children": [
           {
-            "id": "e41210f2bb467f0e",
+            "id": "61aff4cafeb1a547",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_____todos.md",
+                "file": "PhD/submissions/peronalizing-bert-for-l2-prediciton/ideas.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0543eebfc4f9fba3",
+            "id": "bbc04485f499db5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PhD/topics-to-talk.md",
+                "file": "PhD/submissions/peronalizing-bert-for-l2-prediciton/abstract.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eb021a2374eae3c2",
+            "id": "f41cadfeb39cc1b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_____todos.md",
+                "file": "PhD/papers/others/what-type-of-vocabulary-knowledge-predictics-reading-comprehension/what-type-of-vocabulary-knowledge-predicts-reading-comprehension.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "454842d7c59f9450",
+            "id": "d2031cd78fe33241",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PhD/__links.md",
+                "file": "PhD/papers/thesis/modelling-and-selection-of-context-for-better-synonym-acquistion/overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4e6a9193270d42dd",
+            "id": "9c038b4076bfc65f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cardamom/learning-app/alignment task.md",
+                "file": "_____thoughts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +87,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "phd",
+                "query": "___th",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 268.5086555480957
   },
   "right": {
     "id": "a1b9d1dcc9529069",
@@ -134,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cardamom/learning-app/alignment task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +151,43 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4e6a9193270d42dd",
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "f9f9ce51f9f6dfd9",
   "lastOpenFiles": [
     "PhD/aied2023-call-for-aper.md",
-    "PhD/__links.md",
-    "_____todos.md",
-    "cardamom/learning-app/alignment task.md",
-    "books-to-audio/conversions/Implementing-domain-Driven-design.md",
-    "PhD/topics-to-talk.md",
-    "makeurbook/refactor api design.md",
-    "_____PINNED.md",
-    "cardamom/learning-app/deploy app in play store.md",
-    "Untitled 3.md"
+    "PhD/meta-learning with code.md",
+    "PhD/thomas-project/overview.md",
+    "PhD/thomas.md",
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/abstract.md",
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/ideas.md",
+    "PhD/papers/others",
+    "PhD/papers/NIPS-2015/deep-knowledge-tracing",
+    "PhD/papers/NIPS-2015",
+    "_____thoughts.md",
+    "PhD/papers/thesis/modelling-and-selection-of-context-for-better-synonym-acquistion/overview.md",
+    "PhD/papers/others/what-type-of-vocabulary-knowledge-predictics-reading-comprehension/what-type-of-vocabulary-knowledge-predicts-reading-comprehension.md",
+    "PhD/papers/thesis/modelling-and-selection-of-context-for-better-synonym-acquistion",
+    "PhD/papers/AIED-2022/phd_978-3-031-11644-5.pdf",
+    "PhD/papers/AIED-2022/self-attention-in-knowledge-tracing-why-it-works",
+    "PhD/papers/AIED-2022/predicting-second-language-learners-actual-knowledge-using-self-perceived-knowledge",
+    "PhD/papers/AIED-2022/automated-scoring-for-reading-comprehension-via-in-context-bert-tuning",
+    "PhD/papers/AIED-2022/Untitled.md",
+    "PhD/papers/AIED-2022/balancing-cost-and-quality-an-exploration-of-human-in-the-loop-frameworks-for-automated-short-answer-scoring",
+    "PhD/papers/AIED-2022/an-intelligent-interactive-support-system-for-word-usage-learning-in-second-languages",
+    "PhD/papers/AIED-2022/assesing-readability-by-filling-cloze-items-with-transformers/overview.md",
+    "Untitled 7.md",
+    "PhD/papers/Untitled.md",
+    "PhD/papers/CALL-2022/metadata formats for learner corpora case study and discussion.md",
+    "PhD/papers/CALL-2022/exploring linguistic acceptabilty in swedish leaerners language.md"
   ]
 }

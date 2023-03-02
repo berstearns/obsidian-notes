@@ -1,0 +1,24 @@
+# level 1
+https://www.youtube.com/watch?v=kUre8MwwfFE
+https://www.youtube.com/watch?v=EyGL4VCj1jA
+https://www.youtube.com/watch?v=sgKte1ZEzHI
+https://www.youtube.com/watch?v=Iu7t2Hpwn6A
+https://www.youtube.com/watch?v=wxeRMtNRrDM
+https://www.youtube.com/watch?v=HL5ZpYM9FI8
+https://www.youtube.com/watch?v=AnX-VVzWpaE
+https://www.youtube.com/watch?v=fq3ZCi4lT6c
+https://www.youtube.com/watch?v=3qVKNIPIcM4
+https://www.youtube.com/watch?v=oenIjA5P-lw
+https://www.youtube.com/watch?v=2NAxEGJM9jY
+https://www.youtube.com/watch?v=P5iftlTY_AE
+https://www.youtube.com/watch?v=V1TSy7_Q8X4
+https://www.youtube.com/watch?v=CHaVJwEDdho
+https://www.youtube.com/watch?v=dD71ooKrfQk
+https://www.youtube.com/watch?v=Af4DFgrNT-U
+https://www.youtube.com/watch?v=rAG9oJkigVY
+https://www.youtube.com/watch?v=H0S0SfFhu-Q
+https://www.youtube.com/watch?v=as-wsFSdAwI
+https://www.youtube.com/watch?v=YK4a_GMAse8
+https://www.youtube.com/watch?v=IwOXKREQA_0
+https://www.youtube.com/watch?v=2vbWMa-INv8
+	https://www.youtube.com/watch?v=2vbWMa-INv8

@@ -1,4 +1,10 @@
-	https://stackoverflow.com/questions/59615759/high-precision-word-alignment-algorithm-in-python
+
+https://www.ijert.org/word-alignment-using-giza-and-cygwin-on-windows
+https://link.springer.com/chapter/10.1007/978-3-642-25261-7_30
+https://www.ijert.org/word-alignment-using-giza-and-cygwin-on-windows
+http://www2.statmt.org/moses/giza/GIZA++.html
+https://stackoverflow.com/questions/5752043/is-there-a-tutorial-about-giza
+https://stackoverflow.com/questions/59615759/high-precision-word-alignment-algorithm-in-python
 	https://pypi.org/project/systran-align/
 	https://github.com/clab/fast_align/blob/master/src/force_align.py
 	https://www.nltk.org/api/nltk.align.html

@@ -1,0 +1,2 @@
+-> i am using the cors lib in the DiT model
+-> tge books api is not having cors problems

@@ -1,0 +1,13 @@
+This chapter has described a wide range of text-based exercises that can be applied in
+different learning scenarios. Based on the analyses in this chapter, we conclude that text-
+completion exercises are a reasonable choice for fast language proficiency tests. They meet
+the educational quality criteria and can be generated and manipulated automatically be-
+cause exercise content and exercise format are separable. Half-open text-completion exer-
+cises like C-tests and X-tests provide a trade-off between recognition and production exer-
+cises and function as an integrative measure of linguistic knowledge and comprehension
+abilities. We have seen that approaches to automatic exercise generation have already pro-
+vided a wide range of methods for different exercise types. Improving the quality and the
+adaptivity of these generated exercises requires a concept for measuring and adapting the
+difficulty. Related work has provided analyses of the influence of content and format factors
+on the exercise difficulty. In the following chapter, we contribute a model which consoli-
+dates the different findings into an integrated concept of difficulty.

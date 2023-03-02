@@ -1,0 +1,6 @@
+abstract
+	We presente a paramatrizable approach to exercise genration from authetnic texts that addresses the need for digital materials designed to pratice the language means on the curriculum in a real-life school setting. 
+	The tools builds on a language-aware serach engine that helps identify attractive texts rich in the language means to be practivced.
+	Making use of state-of-the-art NLP, the relevant learning targets are identified and transformed into exercises items embedded in the original context.
+
+	While the language-aware search engine ensures that theses contexts match the learner's intersts bsaed on the search term used, and the linguistic parametrization of the sysmte then reranks the results to prioritie texts that richly repressaent the learning targets, for the exercise generation to proceed on thsi basis, aninterative configuration panel allows users to adjust exercise complexity through a range of parameters specufying both properties of the source sentecnes and of the exercises.

@@ -1,0 +1,1506 @@
+CHAPTER 2
+
+# Exercises for Language Learning
+
+“Learning another language is not only learning different
+words for the same things, but learning another way to
+think about things.”
+
+— Flora Lewis
+
+This chapter analyses the expectations for exercises in the area of language learning.
+The first section discusses the requirements for high quality exercises.
+The second section provides an overview of the possibilities and limitations of educational natural language processing.
+The third section introduces text-completion exercises which are a popular choice for language proficiency tests.
+
+## 2.1 Educational Criteria for Language Learning Exercises
+
+In 2001, the European Union published the Common European Framework of Reference for Languages: Learning, Teaching, Assessment (CEFR) which is considered an important milestone towards international comparability of language skills (Council of Europe: Language Policy Division, 2011).
+The CEFR categorizes language proficiency into 6 levels: A1, A2, B1, B2, C1, C2.
+Al indicates beginner knowledge and C2 corresponds to near-native proficiency.
+The proficiency levels are expressed as a combination of the four skills reading, writing, listening, and speaking. Listening and reading are considered to be receptive activities (understanding), whereas speaking and writing are productive activities.
+These activities are often trained separately and thus require different types of exercises.
+We will focus on textual activities; exercises requiring speech technology such as pronunciation or dialogue training are beyond the scope of the thesis.
+
+## 2.1.1 Exercise Quality
+
+The quality of exercises has been frequently discussed in the context of language testing (Hughes, 1989; Grotiahn, 200°).
+Language testing can be categorized into summative assessment and formative assessment.
+Summative assessment refers to diagnostic tests which usually take place after a learning period and categorize the learner’s proficiency at this specific point in time.
+In contrast, formative assessment is defined as performance feedback during the learning process to assure continuous evaluation.
+The issue of exercise quality has been thoroughly analyzed for summative assessment which includes placement tests, achievement tests and proficiency tests.
+These tests are also called high-stakes tests because the outcome determines whether the learner receives a required certificate and might even have financial consequences.
+
+A first step towards improving fairness and comparability for language testing was the introduction of criterion-referenced testing ((3aboniat, 2010).
+In criterion-referenced testing, the learner’s result is compared to an evaluation criterion that has been determined prior to the test.
+This procedure assures that the result of an individual is evaluated independent of the results of his peers as in norm-referenced testing.
+If an individual’s performance is only judged with respect to an expected performance on a standardized scale, results can be compared across samples and also across languages.
+The CEFR has been established as the standard reference system in Europe and all major language testing institutions have linked their language certificates to the benchmark descriptions of the CEFR levels.
+
+The exercises in language tests need to fulfill quality criteria such as objectivity, reliability and validity which are explained below.
+In summative assessment, the learner performance is compared to a desired standard independent of prior knowledge.
+In formative assessment, the learning curve of the individual is more relevant and the performance is compared with the expected performance based on the individual’s previous learning progress.
+In the classical setting, a teacher monitors the learning progress and provides continuous formative assessment by correcting and evaluating the learner’s activities and adjusting the difficulty of the learning tasks.
+Since the introduction of computer-based language learning, formative assessment has received increasing attention.
+Quality criteria The three most important quality criteria for assessment are objectivity, reliability and validity (American Educational Research Association et al, 1999).
+The following explanations are based on overviews by Hughes (1989) and Grotjahn (2008) who
+review these criteria in the light of language testing.
+
+Objectivity of a test can be accomplished if the evaluation of a test is independent from the test organizer and the corrector.
+The test conditions should be comparable for all participants and the evaluation should be consistent.
+This means that the same test outcome should always receive the same grade independent of the corrector.
+In order to assure objectivity, detailed evaluation guidelines are required to specify which performance is expected for which grade.
+The CEFR has provided guidelines that describe the expectations for the six proficiency levels.
+A CEFR manual (Council of Europe: Language Policy Division, 2009) and the recommendations of the Association of Language Testers in Europe (ALTE)’ help to link these scales more directly to language tests.
+Exercises with a closed answer set usually exhibit higher objectivity because they specify pre-determined answers and leave no room for interpretation in the evaluation.
+
+Reliability refers to the accuracy and the reproducibility of test results.
+Reliable tests rate the language proficiency of a participant consistently and exhibit only a minimal level of measurement error.
+If the same participant completes two comparable versions of a test, the results should be highly correlated. Reliability is thus strongly connected with objectivity.
+With the introduction of the CEFR, it has become common practice to analyze the reliability of high-stakes tests in extensive pilot studies.
+
+Validity is the most complex quality criterion for language tests. According to Brown
+(1989, p. 59), “the validity of a measure may be defined as the degree to which it is measuring
+what it claims to be measuring”. Success in an exercise that is supposed to measure lan-
+guage proficiency should thus not depend on general intelligence or world knowledge. As
+this concept is rather vague and difficult to operationalize, validity is often further broken
+down into criterion validity, content validity, construct validity and face validity. Criterion
+validity indicates that the test correlates with an expected outcome. Good placement tests,
+for example, should predict the learning success of a participant in a specific course. Con-
+tent validity captures the representativeness of the test for the measured construct. For
+language testing, content validity can be improved if the exercises are based on a represen-
+tative sample of authentic language usage. A test is considered to have high construct valid-
+ity if it measures the intended construct. As this is hard to determine, construct validity is
+approximated by measuring the correlation of the test with already established measures of
+the construct (also called convergent validity). A language proficiency test should correlate
+with the participant’s school grades for this language and with other language proficiency
+tests. It should not correlate with variables that are considered to be irrelevant for the con-
+struct such as age or sex (divergent validity). Face validity refers to the transparency of the
+test and considers the perspective of the test participants. The exercises of a test with high
+face validity should be intuitive for the participants and generally be considered as a good
+and relevant measure for language proficiency.
+
+Objectivity, reliability and validity are the most important quality criteria for language
+tests and exercises. Additional aspects are often summarized as the usability or the econ-
+omy of a test. A test that takes ten hours and requires complex equipment is considered
+to be less useful than a short and inexpensive test. These criteria have been established
+for traditional assessment practice. In the last decade, computer-assisted language learning
+and testing started to replace pencil-and-paper tests. As the exercise types and the testing
+
+-http://www.alte.org, accessed: January 21, 2016
+
+11
+CHAPTER 2, EXERCISES FOR LANGUAGE LEARNING
+
+procedures are being adapted to the change of the medium, new requirements for exercise
+quality are emerging which are discussed below.
+
+Exercises for computer-assisted language learning ‘The practical developments in com-
+puter-assisted language learning (CALL) started rather slowly, although the topic attracted
+many theoretical debates (Blake, 2011; Garrett, 2009). In an overview of CALL tools that
+make use of natural language processing technology, Amaral and Meurers (2011) describe
+only three stand-alone systems (one for Japanese, German, and Portuguese each). In the
+last years, the trend is moving from computer-assisted to mobile-assisted language learning
+(MALL) and we see a wave of newly emerging applications for language instruction. While
+overviews of computer-assisted language learning by Levy (2009), Mitschian (2010), and
+Blake (2011) focus mainly on tools serving a single purpose like vocabulary or grammar
+training that can be used to complement traditional courses, more recent language learning
+applications aim at covering a wider range of language proficiency training. The most
+popular examples like Duolingo, busuu, and babbel attract thousands of users who cherish
+the non-institutional setup that allows them to integrate language learning into their free
+time (Hockly, 2015). Academic research that embeds the mobile technologies into theories
+of language learning and evaluates them based on empirical experiments is lagging behind
+the fast developments on the application side (Viberg and Groénlund, 2012).
+
+Most research overviews focus instead on institutionalized computer-based language
+testing. The most popular language certificates can now be obtained via computer-based
+tests (e.g. TOEFL and IELTS for English, TestDaF for German). Pathan (2012) lists many
+advantages of computer-based testing such as the independence of administrative and lo-
+gistic burdens and guaranteed uniform testing conditions. In addition to these practical
+advantages, computer-based tests are often praised for achieving a greater authenticity due
+to the integration of multi-media exercises (Joseph and Uther, 2009). On the other hand,
+electronic tests also pose limitations on the exercise types, for example, due to the size of
+the screen (Chinnery, 2006).
+
+Despite the flexibility of the medium, the exercises in language tests and in mobile lan-
+guage learning applications are quite static and often simply resemble the exercises in tra-
+ditional pencil-and-paper tests. In this case, the main advantage of computer-based lan-
+guage learning is the availability of additional data. Keystroke logging and semi-automatic
+analyses of processing times and errors allow insights into test-taking strategies from hun-
+dreds of participants that were not available in traditional testing. These datasets form a
+promising basis for language testing research and will lead to further improvements. The
+approach in this thesis shows that the analysis of existing results makes it possible to pre-
+dict the difficulty of new tests. This is an important step towards more adaptive exercise
+generation.
+
+°www.ets.org/toefl, www.ielts.org, www.testdaf.de, all accessed: January 21, 2016
+
+12
+2.1. Educational Criteria for Language Learning Exercises
+
+The most promising progress in computer-based testing is expected from advances in
+automatic scoring for open exercise formats that require free text answers (Douglas and
+Hegelheimer, 2007). The delivery of immediate feedback even for complex tasks would open
+up many new possibilities. The technology for automatic scoring has seen a lot of progress
+(see section 2.2.3). The Educational Testing Service (the leading institution of computer-
+based testing in the US) has adopted the policy to score essays by combining the output
+of their automatic evaluation system e-rater® with the evaluation of a human rater (Attali
+and Burstein, 2006). This has led to an improvement over the policy of using two human
+raters, but still requires a large amount of human effort.
+
+Computer-based learning and testing is often advertised as a means to support self-
+directed learning because learners can follow their own pace. However, in order to adapt
+the exercises to the needs of the learner, the difficulty of the items needs to match the
+learner’s ability. This goal is the underlying paradigm for computer-adaptive testing. The
+first computer-adaptive test was introduced already in 1985 and addresses the problem that
+most language tests are only informative about high- and low-scoring participants and do
+not discriminate well for intermediate levels (Larson and Madsen, 1985). All items of this
+test had been evaluated in extensive pre-tests and the difficulty was calibrated using models
+from item response theory. During the computer-adaptive test, the items are administered
+to the participants depending on their performance on previous items. Participants who
+have solved an item are presented with a more difficult item, those who have failed continue
+with an easier item. This procedure leads to more individualized and considerably shorter
+tests because the participants only need to answer those items that are discriminative for
+their ability level (Meunier, 2013). This approach requires a model for the difficulty of all
+available items.
+
+After a period that praised computer-adaptive testing as a breakthrough in language
+assessment, the interest quickly declined again because of the unfeasible demands. Dou-
+glas and Hegelheimer (2007) and Meunier (2013) highlight that item pools need to grow
+tremendously in order to satisfy the needs for computer-adaptive testing and still assure
+high item variation to undermine cheating attempts. Therefore, most language testing in-
+stitutions are hesitating to establish the computer-adaptive testing paradigm. The popular
+TOEFL test, for example, does currently not contain any computer-adaptive sections.’ A no-
+table exception is the computer-adaptive Business Language Testing Service (BULATS) that
+assesses the proficiency of English, French, Spanish and German in the business domain
+(Perlmann-Balme, 2010).®
+
+Computer-adaptive testing is particularly attractive for the scenario of formative as-
+sessment. The idea of providing direct feedback and to adapt the exercises to the learner’s
+
+"Information from the Educational Testing Service by Aiofe Cahill, Managing Research Scientist, and Teresa
+Axe, Associate Director Global Education, January 20, 2016.
+Shttp://www.bulats.org, accessed: January 19, 2016
+
+13
+CHAPTER 2, EXERCISES FOR LANGUAGE LEARNING
+
+abilities is in line with the goal of using formative assessment to trigger learning progress.
+The leading online course Duolingo already claims to use adaptive learning modules that
+take the past performance of the user into account (Settles, 2013). However, Duolingo has
+also been criticized for presenting the user with decontextualized sentences (Hockly, 2015)
+due to its commercial model of collaborative translation.” In order to make computer-
+adaptive testing more feasible for a wider range of exercises, technical improvements in
+automatic scoring and exercise generation are required to overcome the laborious com-
+position of manually created item banks. Instead, exercises could be generated on the fly
+to closely match the individual requirements of the learner. In section 2.2.2, we see that
+the automatic generation of exercises is already possible for some exercise types. However,
+predicting the quality and the difficulty of a generated exercise has not yet received enough
+attention.
+
+Conclusions We conclude that good exercises should follow the quality criteria objec-
+tivity, reliability and validity and should be usable for computer-adaptive testing. The last
+condition demands automatic scoring and difficulty estimation of the exercise. A common
+obstacle for computer-adaptive testing is the need for large calibrated item pools. If the
+difficulty of exercises could be manipulated automatically, this hard constraint would be
+alleviated. The following section provides an overview of existing exercise types for text-
+based tasks.
+
+2.1.2 Exercise Types
+
+In previous work, text-based exercises have been categorized into hierarchies depending on
+the educational knowledge level they address. These hierarchies differ slightly depending
+on the purpose of the exercise. Generally, two purposes are distinguished: comprehension
+exercises make a presented content more comprehensible and linguistic exercises train a
+particular phenomenon to improve the learner’s vocabulary or grammar skills. In the first
+case, the learner is encouraged to reflect upon the input to reach a deeper understanding.
+The most popular hierarchy for comprehension exercises is Bloom’s categorization of educa-
+tional objectives (Bloom et al., 1956). In the second case, the learner focus is directed towards
+a certain linguistic phenomenon by highlighting different occurrences, pointing out excep-
+tions and encouraging repeated usage. A hierarchy of text-based linguistic exercises has
+been provided by Wesche (1996).
+
+Table 2.1 provides an overview of these hierarchies including examples of the corre-
+sponding exercise types. The descriptions above refer to the formative goals of the exer-
+cise, but both exercise types can also easily be applied in summative testing to evaluate the
+learner’s abilities.
+
+°Co-founder Luis van Ahn explains Duolingo’s commercial model in a TED talk: http://www.ted.com/
+talks/luis_von_ahn_massive_scale_online_collaboration, accessed: November 25, 2015
+
+14
+2.1. Educational Criteria for Language Learning Exercises
+
+Objective Typical exercises
+
+Knowledge Who, what, when, where, why, how...? Describe X.
+
+Comprehension Summarize X.
+
+Application How is X an example of Y? How is X related to Y?
+
+Why is X significant?
+
+Comprehension Analysis What are the parts or features of X? Classify X.
+Exercises Synthesis What would you infer from X? What ideas can you
+(Bloom et al., 1956) add to X? How would you design a new X? What
+
+would happen if you combined X and Y? What so-
+lutions would you suggest for X?
+
+Evaluation Do you agree that X? What do you think about X?
+What is the most important X? Place the following
+X in order of priority. How would you decide about
+X? What criteria would you use to assess X?
+
+Selective Attention Identification of highlighted words
+
+Linguistic Recognition Matching exercises
+
+Exercises Manipulation Morphological exercises, shuffle exercises
+
+(Wesche, 1996) Interpretation Odd-one-out exercises, tribond exercises
+Production Translation, Cloze exercises
+
+Table 2.1: Overview of text-based exercises and the corresponding educational objectives for lan-
+guage learning
+
+Comprehension exercises Comprehension exercises encourage the learner to reflect upon
+a topic and gain a better understanding. They are often expressed as classical questions
+starting with an interrogative pronoun and ending with a question mark.
+
+Bloom classified exercises according to the associated cognitive educational objective.
+These objectives can be mapped to classical questions as in the upper part of table 2.1.'°
+The educational objectives are ordered by increasing complexity and are hierarchically or-
+ganized, i.e. higher learning objectives like synthesis and evaluation subsume lower ones
+like knowledge and comprehension. The exercise types range from simple factual questions
+up to complex essay writing. The evaluation level also encompasses transfer tasks that
+encourage the learner to apply the new knowledge and skills in a slightly different context.
+
+The questions described above are targeted at the content of the educational material. In
+this setting, the language is only the medium of teaching and the exercises aim at the com-
+prehension of the content. In language teaching, textual content often deals with cultural
+differences, traditions or historical events in the countries of the target language. How-
+ever, the main educational content in language learning is the language itself and although
+language proficiency is also implicitly contained in comprehension questions, linguistic
+exercises that are explicitly targeted at mastering the language are required as well.
+
+10Compare https://en.wikipedia.org/wiki/Question, accessed: December 9, 2015
+
+15
+CHAPTER 2, EXERCISES FOR LANGUAGE LEARNING
+
+Linguistic exercises Linguistic exercises are applied to train a particular linguistic phe-
+nomenon by forcing the learner to use it repeatedly, highlighting different use cases and
+pointing out exceptions. This includes grammar exercises which train, for example, the
+usage of verb tenses, but also vocabulary exercises which train the usage of new words.
+
+As Bloom’s taxonomy can only vaguely be matched to these exercise types, Wesche
+(1996) proposes a slightly different taxonomy to classify text-related vocabulary exercises
+according to the required language competence (see the lower part of table 2.1). The tax-
+onomy follows again an ascending order of complexity. In exercises for selective attention,
+the words of interest are visually highlighted to guide the learner. The task for the learner
+is rather simple and usually consists in reading or noting down these words. In recognition
+exercises, the focus elements are provided and only partial knowledge is required from the
+learner. A typical example are matching exercises that require the learner to match a target
+word with its definition, its translation, a sample context, a picture, or a synonym. In ma-
+nipulation exercises, the learner applies morphological operations on a word stem or gram-
+matical transformations on a group of words. A typical example are shuffle exercises that
+present a group of words (or word stems) in irregular order and ask the learner to pro-
+duce the corresponding sentence (Perfmann-Balme, 2010). Interpretation exercises require
+deeper semantic analysis of the relationships between words. In odd-one-out questions, for
+example, the learner needs to identify one word from a group that does not fit with the
+others (Colton, 2002). For example, the word sit is the odd-one-out in the group /walk, sit,
+run, jog/ because it does not denote a movement of the legs. Tribond questions are similar;
+in this case the learner is asked to identify the shared property of a group of associated
+words. Wesche (1996) classifies production exercises as the most demanding type because
+they require recall and reconstruction. The learner needs to actually produce the item, for
+example, as a translation or to fill the gap in a sentence (the latter is commonly known as
+a cloze exercise).
+
+Due to the over-use of structural pattern drills in language education in the 1960s
+(Paulston, 1970), linguistic exercises (and in particular grammar exercises) have been stig-
+matized as mechanical means of instruction that only train isolated phenomena and do
+not contribute to integrative language knowledge (Gartland and Smolin, 2015). Modern
+language teaching curricula recommend to introduce grammar exercises with respect to
+communicative needs and not as an independent learning objective (Garreit, 2009). How-
+ever, many advocates of computer-assisted language learning have analyzed that extra-
+curricular training of isolated linguistic phenomena has a positive effect on language pro-
+ficiency (Liou, 2013). Warschauer and Healey (1998) propose a shift towards “integrated
+CALL”, i.e. to integrate linguistic exercises into more authentic contexts. In practice, this
+could be obtained by combining comprehension exercises and linguistic exercises.
+
+We have seen that comprehension and linguistic exercises can both be mapped to tax-
+onomies of cognitive objectives. It is generally assumed that higher cognitive objectives
+
+16
+2.1. Educational Criteria for Language Learning Exercises
+
+correspond to higher exercise difficulty. In the educational literature, the main distinction
+is commonly made between recognition and production exercises. In both taxonomies, pro-
+ductive exercises are considered to be more demanding than recognition exercises. For
+many exercises, the answer format determines whether an exercise requires recognition or
+production skills.
+
+Answer formats The complexity of an exercise can be manipulated by the answer for-
+mat which can be distinguished into open, half-open and closed (Grotiahn, 2009). In the
+case of open exercises, the set of potentially correct answers is large and the corrector has
+to interpret the answer provided by the learner. Exercises with open answer formats cor-
+respond mainly to the higher levels of Bloom’s taxonomy of educational objectives and
+require very detailed guidelines for the learner to understand the demands of the task and
+for the corrector to assure reliable scoring. Typical examples for open exercises are free
+text answers that express an argument or an opinion.
+
+Most of the linguistic exercises described above are either half-open or closed. In half-
+open exercises, only a single answer is correct and it is known to the corrector. In closed
+exercises, the correct answer is also available for the test taker who only needs to select it
+from a set of options. The most popular closed answer format is the multiple choice option
+that presents the correct answer along with several distractors (see the cloze exercise in
+Figure 1.2 for an example). For so-called multiple response exercises, more than one option
+is correct and the learner should identify all of them. Matching exercises consist of multiple
+items and a word bank with all solutions. The learner then needs to match each item with
+the corresponding solution. In a simpler variant of closed formats, the learner simply needs
+to make a binary decision whether a statement is true or false.
+
+Exercises corresponding to the production level in the taxonomy by Wesche (1996) are
+usually designed as half-open or open formats, whereas recognition exercises are per defini-
+tion closed formats. In standardized tests, half-open and closed formats are often preferred
+over open formats because they ensure higher reliability (slaboniat, 2010). Comprehension
+exercises are usually either closed or open formats. Half-open comprehension exercises are
+only reasonable for factual questions.
+
+2.1.3 Conclusions
+
+We have seen that there exists a wide range of text-based exercise types. Each exercise type
+serves a Slightly different educational objective and requires different skills. The choice of
+exercises depends on the learning scenario. From the above analyses, we conclude that the
+following desiderata are important indicators for high-quality exercises that can be used
+for fast language proficiency tests:
+
+(1) The exercises should fulfill the quality criteria objectivity, reliability, and validity.
+
+17
+CHAPTER 2, EXERCISES FOR LANGUAGE LEARNING
+
+(2) It should be possible to evaluate the exercises automatically.
+
+(3) It should be possible to manipulate the content and the difficulty of the exercise au-
+tomatically to support formative assessment.
+
+(4) The exercises should address receptive and productive skills.
+
+(5) Ideally, the exercises should integrate comprehension of authentic texts and training
+of linguistic phenomena.
+
+In the following section, we discuss how the requirements correspond with the state of the
+art in natural language processing.
+
+2.2 NLP for Language Learning Exercises
+
+Computer-assisted language learning employs a wide range of technologies for language
+instruction (see Golonka et al. (2014) for an overview). The most interesting developments
+in computer-assisted language learning from a computational perspective are subsumed un-
+der the term intelligent computer-assisted language learning (ICALL). The Computer-Assisted
+Language Instruction Consortium defines ICALL as “an interdisciplinary research field in-
+tegrating insights from computational linguistics and artificial intelligence into computer-
+aided language learning.”!' The technology aspect of computational linguistics is usually
+referred to as natural language processing (NLP). Ina detailed overview, Meurers (2012) lists
+only three NLP-based language tutoring systems that aim at autonomous and complete tu-
+toring of language learners, namely E-Tutor (Heift, 2010), Robo-Sensei (Nagata, 2009), and
+TAGARELA (Amaral and Meurers, 2011). However, he describes many tasks in computer-
+assisted language learning that can benefit from the application of natural language pro-
+cessing. This section provides an overview of these tasks and groups them into different
+stages of language instruction: content selection, exercise generation and learner evalua-
+tion.
+
+2.2.1 Exercise Content Selection and Manipulation
+
+One important aspect of preparing successful learning and teaching is the selection of learn-
+ing material. In natural language processing, the selection of suitable texts has received
+considerable attention, while the selection of other educational resources such as images,
+figures and audio/video samples is mainly discussed in pedagogical and inter-cultural stud-
+ies.
+
+Especially for language learning, the use of authentic material is encouraged to confront
+the learner with real-world language use (Gilmore, 2011). However, authentic material is
+often too complex for learners because of the uncontrolled occurrences of unknown words
+and constructions. Finding suitable textual resources for educational purposes that fit the
+
+“https: //calico.org/page.php?id=363, accessed: October 28, 2015
+
+18
+2.2. NLP for Language Learning Exercises
+
+learners’ level is a challenging and tedious task. There exist two approaches for automati-
+cally determining appropriate content. Readability measures can evaluate the text difficulty
+of a large body of texts and select the ones that best fit the intended readability level. Sim-
+plification approaches work on a single text instead and modify the most difficult elements
+to lower the difficulty of the text. In her thesis, Vajjala Balakrishna (2015) has examined
+both approaches in detail.
+
+Readability Research on the development of automatic measures for assessing the diffi-
+culty of texts, also referred to as readability, has a long tradition. Early measures for read-
+ability like the Flesh-Kincaid Reading Ease (Kincaid et al., 1975) approximate readability only
+based on the average word and sentence length of a text. This approach is still quite pop-
+ular, although it is a very simplistic approximation of text complexity. More sophisticated
+approaches consider a large amount of linguistic features covering morphological, lexical-
+semantic, syntactic, and discourse aspects of readability and reach very high prediction
+quality (Feng et al., 2009; Vajjala and Meurers, 2012). A detailed description of readability
+research for language learners is provided in chapter 4. The automatic measures allow to
+instantaneously estimate the difficulty of a large number of texts. The REAP engine (Heil-
+man and Eskenazi, 2006) and the CohMetrix system (Graesser and McNamara, 2004) provide
+
+web demos to estimate the readability for any text.’
+
+For REAP, the output simply consists
+of a US school grade for which the text is considered to be appropriate. CohMetrix pro-
+vides a very detailed analysis of multiple readability features. However, both systems are
+trained for native speakers as target readers and not language learners.'’ Unfortunately,
+even a text that has been evaluated to exhibit a moderate difficulty on average, might still
+be considered as impractical by the teacher because of the presence of constructions that
+
+are not yet mastered by the targeted learners (e.g. passive).
+
+Text simplification In practical scenarios, teachers often manipulate authentic material
+by deleting, substituting and re-ordering words or phrases to reduce the lexical and syntac-
+tic complexity. The research area of text simplification aims at automatizing this process.
+The goal is to transform a complex text into a simpler one using various simplification oper-
+ations such as splitting a long sentence into two shorter ones. Siddharthan (2014) provides
+a good overview of simplification approaches. The first approaches to text simplification
+focused on syntactic simplification based on parse trees and pattern rules for simplifying
+the trees. Syntactic simplification of sentences is often also called sentence compression
+and can be an important pre-processing step for other tasks like automatic summariza-
+tion. More recently, simplification has often been targeted as a monolingual translation
+
+http: //cohmetrix.com, http://reap.cs.cmu.edu, both accessed: November 25, 2015
+Note that (Heilman et al., 2007) aims at determining readability for language learners. However, the findings
+do not seem to be incorporated in the web demo.
+
+19
+CHAPTER 2, EXERCISES FOR LANGUAGE LEARNING
+
+task from sentences in the standard Wikipedia to the corresponding sentence in the Sim-
+ple English Wikipedia.'* Phrase-based machine translation systems like Moses (Koehn et al.,
+2007) have been quite successful in particular for lexical simplification tasks. Unfortunately,
+a simplified version of Wikipedia exists only for English and comparable resources for other
+languages are hard to find. The quality of simplification is difficult to measure and there
+does not yet exist a good method to reliably compare the state-of-the-art systems. Recent
+experiments by Vajjala Balakrishna (2015) show that simplification approaches are not yet
+robust enough when applied to different corpora.
+
+Simplification approaches originally targeted younger or language-impaired readers
+reading in their mother tongue. Petersen and Ostendorf (2007) and Crossley et al. (2007)
+performed semi-automatic corpus analyses of simplified texts and started focusing on the
+needs of language learners. However, the usability of simplified texts for language learn-
+ing has also been subject to strong debates. Siddharthan (2014) summarizes that the most
+frequently expressed concern is that text simplification denies learners the opportunity to
+learn from authentic and natural input.
+
+Readability and simplification can be seen as two aspects of text difficulty: measuring
+difficulty and manipulating difficulty. Aluisio et al. (2010) aim at identifying the readability
+of texts to identify simplification needs for poor readers. Pilan et al. (2014) and Vajjala and
+Meurers (2014) proceed similarly, but they focus on the readability of individual sentences
+and target language learners. In analogy to the work on readability, this thesis aims at mea-
+suring and predicting exercise difficulty to leverage the task of automatically manipulating
+exercise difficulty. Text simplification explicitly targets only one direction of difficulty ma-
+nipulation, but for adaptive language learning both directions are important. We aim at
+making exercises more difficult for advanced learners and less difficult for beginners.
+
+Collins-Thompson (2014) points out that text difficulty is not only determined by the
+text, but also by the characteristics of the reader. The same holds for exercise difficulty.
+To determine the absolute difficulty of an exercise for a specific reader, her background
+knowledge, interests, and learning motivation need to be taken into account. In this thesis,
+we approximate the difficulty of exercises relative to a sample of learners. This concept of
+difficulty is discussed in more detail in chapter 3.
+
+2.2.2 Exercise Generation
+
+In order to successfully support language learning, it is important to generate exercises that
+fit the learner’s background and proficiency level. To facilitate this task, NLP researchers
+aim at automating the process at least partially so that the human effort can be minimized to
+a final review and selection step. This section provides an overview of existing exercise gen-
+
+https: //simple.wikipedia.org
+
+20
+2.2. NLP for Language Learning Exercises
+
+eration approaches for comprehension exercises and linguistic exercises. Text-completion
+exercises integrate language comprehension and linguistic skills and are discussed sepa-
+rately.
+
+Generating comprehension exercises Comprehension exercises are also known as “clas-
+sical questions”. Almost all automatic approaches for the generation of comprehension
+exercises work sentence-based, i.e. they transform a sentence into the question form by
+replacing one of its elements with an interrogative pronoun and reordering the syntactic
+structure. Not all sentences of a text are good candidates for a question. Most approaches
+first apply term extraction and summarization methods on the document to select the sen-
+tences that contain salient information. For the actual transformation of the selected sen-
+tences into questions, different methodologies can be applied: pattern-based, syntax-based,
+and semantics-based approaches. Pattern-based approaches directly work with surface re-
+alizations and are usually combined with a POS-tagger and a named entity recognizer. If
+manually designed patterns are detected in the input sentence, a corresponding question | is
+
+generated according to predefined temp'ates and rules (Mitkev et al, 2006;
+
+Rus ef al, 2007; Curto and Mendes, 20612). Syntax-based approaches operate on parse trees.
+
+*3
+
+They transform a declarative sentence into an interrogative one by applying grammar rules
+such as wh-movement and subject- auxiliary | inversion (Heilman and Smith, 2010; Wyse and
+
+2012). Semantics-based ap-
+proaches build a semantic representation of the sentence and take this representation as
+input for a generation grammar. Yas et al. (2012) use a combination of minimal recursion
+semantics and an HPSG generation grammar and use transformations to get from a declar-
+ative to an interrogative representation. Olney ef al. (2012) maintain a situational model by
+building up conceptual maps from the input. t. They then use templates to generate questions
+from the conceptual maps. As the generation mechanisms are quite error-prone, several
+systems follow an overgenerate-and-rank approach (Heilman and Smith, 2010; Chali and
+2015). They generate multiple questions and apply ranking and filtering techniques
+to eliminate the questions that are ill-formed. This leads toa strong improvement of the
+quality, but according to the results reported by Heilman and Sruth (2019) only 52% of the
+top-ranked questions were considered to be acceptable by human judges. In a more recent
+
+evaluation, Chali and Hasan (2015) compared their system, which employed a more sophis-
+
+ticated ranking algorithm, with the system by Heilman and Smith (2018) and reported an
+even lower ratio of acceptable questions (below 50% for the 15% top-ranked questions for
+both approaches).
+
+The answer for the automatically generated questions of the described approaches can
+always be found directly in the text. Bloom’s higher educational objectives require more
+complex reflection on the topic and deeper evaluation of arguments and are therefore not
+
+met by the current question generation approaches. One of the first attempts towards
+
+21
+CHAPTER 2, EXERCISES FOR LANGUAGE LEARNING
+
+deeper assessment of reading comprehension is the approach by Ai et al. (2015). They
+use relation extraction techniques and paraphrasing patterns to generate multiple-choice
+inference questions. The learner is presented with a text and with multiple statements that
+express a relation between two entities. The task is to select the statement that expresses a
+relation which can be inferred from the information provided in the text.
+
+All of the mentioned approaches aim at improving general understanding of texts and do
+not specifically target language learners. In 2010, a shared task on automatic question gen-
+eration (QG2010) attracted the participation of four research groups. The task consisted in
+
+discuss the results of the subsequent human evaluation and report high average scores for
+the quality of the systems. Unfortunately, the majority of generated questions contain syn-
+tactic inconsistencies. While these syntactic flaws might be negligible in tutoring systems
+for native speakers that focus on the question content, the input needs to be impeccable for
+language learners. Flawed questions are more likely to have a negative effect on the learn-
+ing progress and on the motivation of language learners. We have seen that generation
+approaches for comprehension exercises struggle with syntactic inconsistencies when ap-
+plied to new content. Linguistic exercises are usually more robust because the same exercise
+format can be applied to a large group of words in a repetitive way without adjustments.
+
+Generating linguistic exercises Linguistic exercises can be roughly distinguished into
+vocabulary and grammar exercises. The existing approaches to automatic generation of
+vocabulary exercises all rely on additional resources that provide information about words
+and their relationships with other words. Brown et al. (2005) develop automatic approaches
+for six different vocabulary exercises. The tasks include mapping words to a corresponding
+definition, to a synonym, antonym, hypernym, or hyponym of the word, or to a suitable ex-
+ample context. The exercises are presented in two closed answer formats. In the word bank
+format, answers and exercises need to be matched and in the multiple-choice format, the
+answer needs to be selected from a set of distractors. The authors find that student perfor-
+mance on the automatically generated questions correlates well with the performance on
+human-generated questions and on a standardized vocabulary test. In more recent work,
+Susanti et al. (2015) follow a similar approach to generate synonym questions but the target
+word is presented in an authentic context retrieved from the web. The contextual evaluation
+requires additional word sense disambiguation to select a suitable synonym.
+
+Both approaches above are based on semantic relations from WordNet (Felfbaum, 1998).
+WordNet is a very rich resource, but it necessarily has a limited coverage. To avoid the
+dependence on limited resources, Heilman and Eskenazi (2007) base their generation ap-
+proach for vocabulary exercises on a thesaurus which is automatically extracted from a text
+corpus. See below an example of their questions (the solution is C);:
+
+22
+2.2. NLP for Language Learning Exercises
+
+Which set of words are most related in meaning to reject?
+A. pray, forget, remember
+
+B. invest, total, owe
+
+C. accept, oppose, approve
+
+D. persuade, convince, anger
+
+Although the question format is quite static, the exercise can be classified as an interpreta-
+tion task and can be generated for many content words. The challenge lies in the generation
+of suitable answer sets. The authors use a dependency parser and extract relations between
+words based on the measure of mutual information. Words that occur in the same depen-
+dency relation with another word are then considered to be related. Heilman and Eskenazi
+(2007) asked a teacher to evaluate the generated questions and found that 68% of the ques-
+tions were usable. For the unusable questions, the solution was either too difficult due to
+ambiguous word relations or too easy. It can be concluded that the quality of automatically
+generated vocabulary exercises is higher than for comprehension exercises, but anticipat-
+ing and manipulating the difficulty of these exercises appropriately is challenging. Sun
+et al. (2011) make a first step towards applying psycholinguistic findings for the manipula-
+tion of exercise difficulty. They create simple wordbank exercises that require the learner
+to match words with their definition, but they include an additional difficulty factor to the
+generation of the wordbank. Based on the observation that Chinese learners struggle with
+phoneme-to-grapheme mapping in English, the authors aim at grouping words that look
+similar and are closely related in meaning (e.g. transform and transfer) to raise awareness
+for the differences.
+
+Highlighting the contrast between different word forms is also an important aspect of
+grammar exercises. Schmidt (1990) analyze the important role of consciousness in second
+language learning and argue for a focus on form. Based on this idea, Meurers et al. (2010)
+enhance web pages with visual input for language learners. In noticing exercises, they focus
+on specific grammatical phenomena (e.g. the difference between gerunds and to-infinitives)
+and highlight the different use cases in authentic texts. In addition, they also provide prac-
+tice exercises to train the phenomena. Shuffle exercises, for example, present a sentence
+or a question in random order and require the learner to re-arrange the words correctly.
+Perez-Beltrachini et al. (2012) generate similar shuffle exercises for French. As additional
+difficulty, they present the shuffled words as lemmas forcing the learners to pay attention
+to word order and inflection at the same time. Aldabe ef al. (2606) generate exercises for
+training the complex morphology of Basque. They create error correction exercises which
+require the learner to recognize the error in a wrong word form, and word formation exer-
+cises that provide the lemma and ask the learner to produce the correct inflection for a given
+pattern. Bick (2004) uses natural language processing to develop games that ask learners to
+label words with classes and sentences with morphological and syntactic features to pass
+levels. Almost all of the approaches towards vocabulary and grammar exercises described
+
+23
+CHAPTER 2, EXERCISES FOR LANGUAGE LEARNING
+
+above, additionally implement approaches for generating text-completion exercises which
+are explained in more detail below.
+
+Generating text-completion exercises Text-completion exercises combine the training of
+vocabulary with the comprehension of context. This is considered to be a more authentic
+task than determining semantic relations of isolated words (Smith et al., 200%). The most
+popular type of text-completion exercises in natural language processing is the cloze exer-
+cise (see figure 1.2). A cloze exercise consists of a sentence in which one word (the key)
+has been replaced with a gap and the learner is asked to fill in the gap. In order to simplify
+the task, cloze exercises are usually presented in multiple-choice answer format. Cloze ex-
+ercises can be generated for a variety of learning goals. Most automatic approaches for
+cloze exercises focus on factual comprehension or vocabulary knowledge, but they can also
+be used for directly testing linguistic phenomena. Cloze exercises are not the only op-
+tion for text-completion exercises. In psychological and educational research, other text-
+completion exercise types like the C-test and the X-test have been discussed, but they have
+not yet attracted interest in natural language processing research. These exercises are in-
+troduced in more detail in section 2.3 as part of the text-completion principle.
+
+Generating a cloze exercise first consists of choosing a key and a corresponding con-
+text. In a second step, the wrong answer options (also called the distractors) are generated.
+In most approaches, either the key or the context are already provided depending on the
+application scenario.
+
+If the learner should practice specific key terms, corresponding contexts need to be
+created for them. Brown et al. (2005) extract the example contexts for a given key from
+WordNet and Gates (2011) use definitions from a learner dictionary. Pino ef al. (2008) and
+Smith et al. (2069) aim at finding suitable contexts for given keys in unstructured text cor-
+pora based on pre-defined criteria. Instead of selecting existing sentences, Liu ef al. (2013)
+explicitly generate typical example context from the Webi1T n-grams (Brants and
+2008).
+
+In another scenario, the focus lies on reading comprehension of specific texts. This
+means that the context is already provided and the challenge lies in identifying a useful
+key, ie. to determine a good placement for the gap. In this case, a common approach is to
+over-generate potential cloze exercises from the given input data and use a classifier trained
+on existing human-generated cloze exercises to filter out the flawed instances. Becker ef al.
+(2012) used a large set of linguistic features to distinguish between high-quality and low-
+quality cloze exercises. Niraula and Rus (2015) build on this approach and add an active
+learning step that requires human judges to label additional instances to improve the clas-
+sifier. These approaches are comparable to the previously introduced overgenerate- -and-
+
+rank approaches for comprehension questions (He
+
+24
+2.2. NLP for Language Learning Exercises
+
+Once the key and the context are determined, the distractors need to be generated. For
+grammatical cloze exercises, this task is relatively easy because they either target closed
+
+classes like prepositions (Lee and Seneff, 2007) or they test regular grammatical processes
+
+OY
+
+like different verb tenses (Meurers et al, 2010; Chen et al, 2006) or morphological inflection
+
+of noun phrases (Ak i). The distractors : are therefore simply ungrammatical
+versions of the correct answer. For word knowledge and comprehension exercises, the se-
+lection of suitable distractors is more difficult because the candidate set is larger. Suitable
+distractors need to be close enough to the correct answer to be a tempting option for the
+
+~
+
+learner, but may not be a proper solution (Lee and Seneff,
+
+9
+
+2007). In order to increase the
+difficulty of a multiple choice question, the goal is to maximize this “closeness” without
+selecting actual solutions. Good distractors are usually from the same word class as the
+solution and exhibit comparable usage statistics such as meauency and collocation behav-
+ior (Hoshino and Nakagawa, 2007). Brown et al. (2005) and Liu et al. (2605) access the
+
+standard WordNet relations (e.g. hyponymy, hypernomy, synonymy) to determine close
+
+. Hetiman et al. (2007), Mitkev et al. (2006), and Surita et al. (2005) determine
+the similarity of words using a thesaurus. Agarwal and Mannem (2011) and Moser et al.
+(20) 2) fo focus on contextual similarity of the target word and the distractors in a corpus. Sim-
+ilarly, Zesch and Melamud (2014) select distractors that are near-synonyms in one context,
+e.g. vurchase and acquire, but cannot be substituted in another context (e.g. children can
+only acquire skills and not *purchase skills). For this approach, a subsequent reliability
+check based on context-sensitive lexical inference rules that filters distractors which are
+valid solutions is particulan'y important.
+
+od Eskenazi (200%) develop one of the first approaches to distractor generation that
+explicitly targets language learners. They generate distractors that are similar with respect
+to morphology, orthography, or phonetic representation (e.g. shared and shredded) and also
+consider the mother tongue of the learner. Yin et al. (2012) and Sakaguchi et al. (2013) gener-
+ate exercises based on a corpus of manually annotated learner errors sin norder to specifically
+target learner problems.
+
+Skory and Eskenavzi (2010) claim that the quality of exercises is directly related to the
+difficulty. They find that the difficulty of open cloze exercises correlates with the read-
+ability of the sentence. The variety of approaches to distractor generation for closed cloze
+exercises show that the choice of distractors determines the educational goal and has an
+influence on the difficulty and the quality of the exercise. Pino et al. (2008) evaluate their
+generated exercises with human judges and find that 67% of the generated questions are
+directly usable. For grammatical exercises, the quality is even better. Chen et al. (2006)
+report that 80% of their exercises are “worthy” and Perez-Beltrachini et al. (2012) find that
+even more than 90% of the generated exercises are correct. The evaluation guidelines vary
+across the approaches and a direct comparison is not possible. In order to support the usage
+of automatic exercise generation approaches, several researchers implemented authoring
+
+25
+CHAPTER 2, EXERCISES FOR LANGUAGE LEARNING
+
+tools to include a human quality check for the generated questions (Liu et al., 2005; Mitkov
+et al., 2006; Aldabe et al., 2006). Based on their evaluations, a common source of errors for
+inappropriate exercises can easily be identified: exercises are either too easy (for example
+due to implausible distractors) or too difficult to solve (due to unresolvable ambiguity).
+
+Conclusions We have seen that automatic exercise generation has been tackled for al-
+most all exercise types. Text-completion exercises have been particularly attractive for
+several reasons. They are usually designed as closed or half-open exercises that are easy
+to score automatically. They integrate comprehension exercises with linguistic exercises
+and can therefore be used for a fast estimate of language proficiency. Another important
+aspect of text-completion exercises is the ability to manipulate the exercise content and the
+exercise format independently. This makes it possible to adjust the exercises to different
+learning goals. For example, the range of required comprehension skills could be varied
+by using different test types and linguistic skills could be determined by the gap placement
+and the choice of answer options (e.g. semantic, syntactic, or morphological distractors).
+Most computational research has been restricted to cloze exercises. From an educational
+perspective, other text-completion exercise types have been found to be advantageous over
+cloze exercises (see section 2.3).
+
+The quality of generated exercises is strongly related to their difficulty. However, gen-
+eration approaches cannot yet explicitly manipulate or measure the difficulty due to lack of
+objective measures for this task. This thesis aims at modeling the difficulty of exercises for
+language learners to provide an objective basis for improving and manipulating exercises
+automatically. We have seen that the choice of distractors can have an influence on the
+exercise difficulty and further explore this aspect in chapter 6.
+
+2.2.3. Exercise Evaluation
+
+Selecting suitable material and generating useful exercises are important tasks to foster
+learner progress. In order to measure the progress and the learning effect of different ex-
+ercises, the performance of the learner needs to be evaluated. Natural language processing
+techniques can be applied to support three very related tasks: analyzing learner language,
+detecting and correcting errors and automated scoring.
+
+Analyzing learner language Exploiting learner corpora to analyze and process learner
+language has recently experienced a huge rise. The Learner Corpus Bibliography lists more
+than 1,100 bibliographical references, although it is limited to English publications and only
+dates back until 1990." Most learner corpora contain written or spoken productions from
+a group of learners within a specific task setting. Good examples for big learner corpora
+
+Shttp://www.uclouvain.be/en-cecl-Icbiblio.html, accessed: December 15, 2015
+
+26
+2.2. NLP for Language Learning Exercises
+
+are the EF-Cambridge Open Language Database (Geertzen et al., 2012) and the MERLIN cor-
+pus (Boyd et al, 2014), which are introduced in more detail i in section 5.3. Learner corpora
+provide empirical evidence for second language acquisition hypotheses and can provide in-
+sights into the practical effects of the different paradigms in foreign language teaching. Nat-
+ural language processing tools can be very helpful in automatizing the analysis of learner
+corpora. Automatic linguistic pre-processing enriches the input with layers of linguistic
+annotation ne g. tagging, morphological analysis, parsing) to prepare it for further analysis
+(see Meurers (2015) for a good overview). The main challenge for linguistic pre-processing
+is the flawed input produced by the learners. Most tools are trained on standardized and
+correct input and are not robust enough to deal with the many errors in learner language
+(Ot) and #iai, 2010). More robust approaches are less sensitive to errors in the text, but
+come with the disadvantage that the subtleties of learner language might get lost in the
+analysis. Depending on the target application, researchers thus have to find a trade-off be-
+tween increasing robustness and maintaining a sufficient level of detail for useful analysis
+of learner language.
+
+Psycholinguistic research analyzes learner language with respect to acquisition theo-
+ries, and pedagogical research focuses on the effect of teaching conditions. In contrast,
+approaches towards automatic analyses usually focus on fulfilling a very concrete task. A
+typical example is the task of natural language identification. Natural language identifica-
+tion aims at identifying the mother tongue (L1) of a learner based on a text written in a
+foreign language (L2). In 2013, a dataset of English essays written by native speakers of
+Arabic, Chinese, French, German, Hindi, Italian, Japanese, Korean, Spanish, Telugua, or
+Turkish was compiled for a shared task on natural language identification which attracted
+the participation of 29 teams (Tetreault ef al, 2013). The salty © of the classification sys-
+tems was high; 13 teams reached an accuracy - of more than 80%. Malmasi et al. (2015) show
+that the automatic approaches perform highly above the human upper bound for this task.
+The majority of systems relied on n-gram features calculated over words, POS-tags and
+characters. In addition, several teams included syntactic and spelling features. It can be
+concluded, that the L1 has a measurable effect on the writing style of a learner in a for-
+eign language. This highlights the importance of considering transfer effects in language
+learning. This aspect will be discussed in more detail in the chapters 4 and 5.
+
+Error detection and correction It is important that learners receive feedback on their
+performance in exercises to support continuous learning progress. The direct detection and
+correction of errors can prevent the development of language fossilization and structural
+problems (Eilis, 1994). For half-open and closed exercise formats, error detection and cor-
+rection only involves a comparison of the learner answer with the expected solution. Due
+to the direct comparison, structural errors can also be detected and reported if necessary
+(e.g. if the learner always provides adjectives instead of adverbs, additional training of ad-
+
+27
+CHAPTER 2, EXERCISES FOR LANGUAGE LEARNING
+
+verb inflection can be recommended). Reliable error correction of open exercises is more
+challenging.
+
+While the automatic correction of spelling errors has become an indispensable tool for
+most writers, the correction of grammatical and stylistic errors is still challenging. In the
+last years, several shared tasks aimed at grammatical error detection and correction. In
+the first Helping Our Own (HOO) challenge in 2011, the focus was on correcting scientific
+papers by non-native speakers. As this task turned out to be too vaguely defined, the per-
+formance of the submitted systems was rather low (Dale and Kilgarriff, 2011). The main
+problem of this task was rooted in the dependencies between multiple sources of error
+that were not properly reflected in the evaluation. This problem is related to the task of
+determining dependencies between exercise items that is discussed in section 6.3. In the
+following year, the organizers thus turned to the correction of isolated errors. The sub-
+mitted systems should detect preposition and determiner errors in learner essays from the
+FCE corpus (Yannakoudakis et al., 2011). This corpus is introduced in more detail in sec-
+tion 5.3. The results were slightly better than in the previous task, but even the best systems
+detected and corrected less than half of the errors in the test set properly (Dale et al., 2012).
+The task of error correction was continued as a shared task at the CoNLL conference in
+2013 and 2014 and extended to a wider range of error types (Ng et al., 2013, 2014). As the
+task became more complex, the reported performance results for error detection and cor-
+rection did not improve much over the years.'® The main strategy for error correction are
+hybrid systems that combine rule-based approaches for specific error types with language
+models that compare the probability of a learner phrase with the probability of a correc-
+tion candidate. Language models for candidate evaluation are also used in section 6.2 in
+a slightly different setting. Another popular approach is the usage of machine translation
+systems that “translate” learner English into correct English. In 5.2, we use machine trans-
+lation technology for the task of cognate production. This shows that methods from natural
+language processing that have been developed for one task, can also prove useful for other
+tasks with a parallel problem structure.
+
+The main problem with the analysis of learner language is that sentences often contain
+several errors which cannot easily be disentangled. Liideling (2008) claims that errors in
+learner language can only be corrected with respect to a specific target hypothesis and that
+this target hypothesis is hard to identify even for experienced linguists.
+
+The multi-faceted research interest in the shared tasks shows that there has been con-
+siderable research development in the area of grammatical error correction. However, the
+quality is not yet satisfactory enough to apply automatic correction systems in self-directed
+learning environments. Native speakers can tolerate quality deficits and still benefit froma
+tool. In contrast, language learners rely on impeccable feedback because they do not have
+the expertise to re-evaluate the system output.
+
+‘©The best-performing system at the CoNLL 2014 shared task reached an Fy; score of 37.33 (Ng et al., 2014).
+
+28
+2.2. NLP for Language Learning Exercises
+
+Automatic scoring As the automatic correction of individual errors is very challenging,
+researchers have focused on providing more general quality feedback for the tasks of pro-
+ficiency classification, essay grading, and short answer scoring.
+
+Proficiency classification aims at identifying the proficiency level of a language learner
+based on a small sample. The ability to quickly judge the current status of the learner helps
+to assign learners to homogeneous groups and to adapt the difficulty of the learning mate-
+rial appropriately. Proficiency classification can be performed based on a lexical decision
+task that requires the learner to distinguish words from artificial non-words (Lemh6ofer and
+Broersma, 2012) and based on text-completion tests (see section 2.3). Both tests are closed
+formats which can easily be evaluated automatically by comparing the learner answer with
+the reference answer. Another typical exercise for proficiency classification are argumen-
+tative essays. In this open format, learners are asked to write a free text answer to a given
+prompt. Crossley et al. (2012) use lexical features to perform proficiency classification of
+learner essays. Their model decides whether an essay was written by a beginning, inter-
+mediate, or an advanced learner and classifies 23 out of 33 essays in the test set correctly.
+Hancke and Meurers (2013) work with a larger essay set by learners of German and also
+a wider range of linguistic features and reach an accuracy of 62.7%. It should be noted
+that they classify the essays on the more fine-grained CEFR scale with five categories. For
+this task, the relative linguistic quality of the learner essay is compared with essays from a
+known proficiency class without judging the absolute quality or the topic of the essay.
+
+A strongly related and more popular task is direct essay grading. For this task, the
+linguistic quality of the essay has to be evaluated with respect to the topic suitability of the
+essay for a given prompt. An example for a prompt can be seen below:"’
+
+The well-being of a society is enhanced when many of its people question authority.
+Write a response in which you discuss the extent to which you agree or disagree with
+the statement and explain your reasoning for the position you take. In developing and
+supporting your position, you should consider ways in which the statement might or
+might not hold true and explain how these considerations shape your position.
+
+In related work, prompts are also called tasks, issues or topics. We limit ourselves to the
+term prompt to avoid confusion. Dikli (2006) provides an overview of systems for automatic
+essay grading. The systems determine the grade for an essay by comparing it to manually
+scored essays based on a wide range of linguistic features. The most popular system is the
+e-rater® system that was developed by the Educational Testing Service (Attali and Burstein,
+2006). It is used in many testing scenarios to grade the essays of native speakers and lan-
+guage learners. However, it is not used as a stand-alone scorer but the output is combined
+with human evaluations. In a competition on automated essay grading that was organized
+
+Taken from: https://www.ets.org/gre/revised_general/prepare/analytical_writing/issue/pool, ac-
+cessed: January 19, 2016.
+
+29
+CHAPTER 2, EXERCISES FOR LANGUAGE LEARNING
+
+by the Hewlett Packard Foundation (the Automated Student Assessment Prize), the best sys-
+tems were able to consistently replicate human scores (Shermis, 2014). The drawback of
+these systems is that they require manually labeled essays as training data for each prompt.
+In order to be able to grade essays for new prompts without hand-labeled data, Zesch et al.
+(2015) attempt to grade essays without relying on prompt-specific features . They find that
+the prompt-agnostic models perform better on unseen prompts than prompt-specific mod-
+els, but the performance losses compared to the performance on known prompts are still
+extremely high.
+
+More recently, the focus shifted towards short answer scoring. This task is even more
+challenging because the student answer contains less textual data and the grading sys-
+tem needs to evaluate factual knowledge and relationships more precisely (e.g. word order,
+negations, and agent/patient relations) to compare the answer to a reference answer. Bur-
+rows et al. (2014) provide a detailed overview for this task. The results for short answer
+scoring vary strongly depending on the dataset.'* Horbach et al. (2013) and Meurers et al.
+(2011) present results for scoring answers to reading comprehension written by language
+learners and report accuracy values of up to 84%. They argue that their systems can facili-
+tate the work of human scorers, but should not yet be used as stand-alone evaluation.
+
+We have seen that the field of processing learner language and evaluating learner per-
+formance has advanced tremendously in the last years. Automatic natural language iden-
+tification outperforms human experts by far and automatic essay grading systems have
+already been introduced into high-stakes testing procedures. They are very useful for large-
+scale assessments, but cannot easily be adapted to new tasks yet as they rely on high-quality
+training data. For evaluation on more fine-grained levels such as short answer scoring and
+grammatical error correction, the automatic systems are steadily improving, but cannot yet
+compete with human raters. Closed or half-open exercise formats are therefore the safest
+option if fast and reliable scoring is required.
+
+2.2.4 Conclusions
+
+We have seen that natural language processing techniques can contribute to a wide range
+of application scenarios in language learning. The automation and dynamic adaptation of
+educational tasks is a first step towards formative computer-adaptive testing and individ-
+ualized learning support (see condition 2 and 3 for high-quality exercises in section 2.1.2).
+Based on the overview of the current state of the art, we decide to focus on half-open and
+closed exercise formats because they can be generated and evaluated automatically without
+reference answers. We aim at exercises that allow independent manipulation of exercise
+content and exercise format to facilitate difficulty manipulation.
+
+18The interested reader is referred to the results of the second phase of the ASAP challenge for short answer
+grading (https://www.kaggle.com/c/asap-sas/leaderboard) and to the SemEval shared task on student
+response analysis (Dzikovska et al., 2013).
+
+30
+2.3. Text-Completion Exercises
+
+In section 2.2.2, we have seen that cloze exercises are a popular format for automatic ap-
+proaches because they combine technical practicality with educational quality expectations
+for exercises. In the cloze paradigm, linguistic exercises are embedded into authentic com-
+prehension tasks and can target a variety of skills depending on the choice of the context
+and the distractors. In the last years, many variants of cloze exercises have been developed.
+All of these exercises ask the learner to complete the missing elements of a text. For a
+detailed and fine-grained analysis of language skills, text-completion exercises are usually
+not sufficient. They need to be coupled with open formats and exercises that address other
+skills such as speaking and listening. However, for a fast estimate of language proficiency,
+the use of text-completion exercises has become a commonly used procedure in practice.
+The range of text-completion exercises is introduced in more detail in the following section.
+
+2.3. Text-Completion Exercises
+
+In this section, we analyze text-completion exercises in more detail. We first introduce the
+reduced redundancy principle which provides the theoretical basis for all text-completion
+exercises. We then describe several exercise types that have been developed based on this
+principle. Text-completion exercises have been analyzed from many angles. We summarize
+the findings with respect to the properties and the difficulty of text-completion exercises.
+
+2.3.1 Reduced Redundancy Principle
+
+In the long history of second language education and language testing, a central question
+has been the definition of the concept of language proficiency. In an attempt to characterize
+the “notion of knowing a language”, Spelsky (196°) uses an analogy from communication
+theory (Shannon and Weaver, 194°). He describes the concept of redundancy as the obser-
+vation that many elements of a message do not directly contribute to the encoded informa-
+tion value, or, to phrase it the other way around, the information value of the message is
+not affected if redundant elements are removed. While redundancy is considered as useless
+in data compression, it is central for communication. Spolsky (196%, p. 8) states:
+
+When one considers all the interference that occurs when natural language is used for
+communication, it is clear that only a redundant system would work.
+
+In his study, Spolsky (1969) analyzed how the participants could cope with conditions of
+intentionally created interference, which are more commonly termed as noise. He found
+that the proficiency level of language learners can be estimated by their ability to deal with
+text-completion. While the performance of native speakers is quite robust in situations
+of reduced redundancy, language learners have difficulties to restore the information. An
+illustrative example for a real-life situation of reduced redundancy is a telephone call. In
+
+31
+CHAPTER 2, EXERCISES FOR LANGUAGE LEARNING
+
+this scenario, the transmission of additional cues such as gestures and facial expressions is
+inhibited, making communication a challenging task for language learners.
+
+The observation that the reduced redundancy theory provides a means to measure lan-
+guage proficiency corresponded well with a research theory called the unitary trait hy-
+pothesis. Glter (1976) claims that second language proficiency should be understood as a
+single general trait of cognitive processing underlying all of the four skills reading, writing,
+speaking, and listening. These theoretical developments were soon reflected in the design
+of corresponding language tests. Kiein-Braley (1997) provides a good overview of the oper-
+ationalization of the theory and compares different reduced redundancy tests. She distin-
+guishes between tests using the acoustic channel (dictation, partial dictation, noise test) and
+the visual channel (different variants of text-completion exercises). The tests differ mainly
+in the strategy for introducing noise to the message. For the acoustic tests, additional sig-
+nals are added to the audio stream. The tests affecting the visual channel are based on texts
+with partial deletions. The deleted elements (phrases, words, or partial words) are replaced
+with a gap and the learner is asked to fill in the gaps, i.e. to complete the missing words.
+We refer to the visual exercises as text-completion exercises.
+
+2.3.2 Types of Text-Completion Exercises
+
+The euphoria for the theoretical model of the unitary trait soon cooled down and the focus
+shifted towards more communication-oriented language learning theories (Bachman, 2000).
+However, the appreciation of the functional test design of text-completion tests and their
+reliable and informative results persisted. Today, text-completion exercises are still heavily
+used, in particular as placement tests and linguistic exercises. In the following, we introduce
+the three test variants cloze test, C-test, and X-test in more detail.
+
+Cloze test Cloze tests have been originally introduced by Taylor (1953) as a measure for
+the readability of a text. To produce a cloze test, single words are deleted from a text and
+the learner is expected to re-produce them. Instead of manually selecting the words to
+be deleted, a random selection based on a fixed deletion rate is recommended. A deletion
+rate of seven indicates that every seventh word in the text is replaced with a gap. The
+suggestions for the optimal deletion rate vary in the literature, but it is generally agreed
+that it is important to provide enough context. (Hier (1973) recommends the deletion rate
+should be higher than five, Brown (198%) even uses a deletion rate of twelve. Taylor (1953)
+argues that a cloze test from a highly readable text should be easier to complete than a
+cloze test from a less readable text. While the cloze procedure was never established as
+a readability measure, the simple and convenient procedure to transform a text to a test
+was soon discovered for language proficiency testing in the context of the text-completion
+
+. . Ni. 4 gpeRe AtAL.. . FON
+GS bhow PAS 4}e Biever Pag eat
+principle (Oller, 1973; Alderson, 1979).
+
+32
+2.3. Text-Completion Exercises
+
+Unfortunately, cloze gaps are usually highly ambiguous and the set of potential solu-
+tions cannot be exactly anticipated (Horsmann and Zesch, 2014). Educational researchers
+have proposed two ways of dealing with this ambiguity: the application of relaxed scor-
+ing schemes and the use of distractors. In relaxed scoring, all acceptable candidates for a
+gap are considered as correct solutions and not only the original word as in exact scor-
+ing (Alderson, 1979). Unfortunately, this scoring method turned out to be quite subjective
+and time-consuming as it is not possible to anticipate all acceptable solutions (Raatz and
+Klein-Braley, 2002). To circumvent the open solution space, most cloze tests are designed
+as Closed formats by providing a fixed set of candidates from which the solution needs to be
+picked (Bensoussan and Ramraz (1984), see Figure 1.2 for an example). Closed cloze tests
+are particularly popular for vocabulary exercises (Skory and Eskenazi, 2010; Dela Rosa and
+Eskenazi, 2011). The automatic generation of cloze tests and in particular the selection of
+good distractors has been attempted repeatedly in natural language processing (see sec-
+tion 2.2.2). However, the focus was restricted to creating correct and solvable cloze items;
+the difficulty of the created items was rarely discussed or evaluated.
+
+C-test The C in C-test stands for its origin in the cloze test. Although the cloze test is
+widely used, the setup contains several weaknesses such as the small number of gaps and
+the ambiguity of the solution. Klein-Braley and Raatz (1984) systematically analyze the
+shortcomings of the cloze test in detail. They developed the C-test as an alternative and
+claim that it addresses most of the weaknesses of the cloze test (Klein-Braley and Raatz,
+1982, 1984). The C-test construction principle produces a higher number of gaps because
+every second word of a short paragraph is transformed into a gap. Tests with smaller dele-
+tion rates are preferable because they provide more empirical evidence for the students’
+abilities on less text. However, they also lead to an unfeasible degree of redundancy re-
+duction. To account for this increased difficulty, Klein-Braley and Raatz (1984) propose to
+delete only the end of the word. The remaining prefix consists of the smaller “half” of the
+word. If three characters are provided, the correct solution has a length of six or seven
+characters. A C-test commonly contains 20 gaps and starts with an introductory sentence
+to provide context as in the following example:"”
+
+The roots of humanity can be traced back to millions of years ago. T__ primary
+evid____ comes fr____ fossils — skulls, skel__ and bo___ fragments. Scien__ have
+ma__ tools th__ allow th__ to ext__ subtle infor__ from anc__ bones a__
+
+their enviro__ settings. Mod__ forensic wo__ in t__ field a__ in labora__ can
+n__ provide a rich understanding of how our ancestors lived.
+
+The given prefix and the length constraint restrict the solution space to a single solution (in
+almost all cases) which enables automatic scoring. However, the C-test is a half-open test
+
+The solutions are: The, evidence, from, skeletons, bone, Scientists, made, that, them, extract, infor-
+mation, ancient, and, environmental, Modern, work, the, and, laboratories, now.
+
+33
+CHAPTER 2, EXERCISES FOR LANGUAGE LEARNING
+
+that requires productive skills and cannot be solved by guessing (as opposed to the closed
+cloze test).
+
+Since its introduction, the C-test has been researched from many angles (see Grotjahn
+et al. (2002) for an overview) and has been tested for many other languages (e.g. German,
+French, Italian, Portuguese, Hungarian, Hebrew, Turkish). Thorough analyses indicate ad-
+vantages of the C-test over the cloze test regarding empirical validity, reliability, and corre-
+lation with other language tests (Khodadady and Hashemi, 2011; Babaii and Ansary, 2001;
+Klein-Braley, 1997; Jafarpur, 1995). Reichert et al. (2010) show that C-test performance can
+be directly linked to the levels of the CEFR which is the European standard guideline for
+language courses. This property has made the C-test particularly popular for placement
+tests. Farhady and Jamali (2006) experiment with other deletion rates for the C-test (ev-
+ery 3rd, 4th, 5th, 6th word) and found that these variants do not exhibit the same stable
+characteristics as the C-test. Tavakoli et al. (2011) examine the effect of genre familiarity
+for C-tests and cloze tests and find that language learners have an advantage in solving
+the C-test when they are familiar with the topic. To avoid this topic bias, a C-test session
+usually consists of five individual C-tests with varying topics.
+
+X-test In order to improve the discriminative power of the C-test, Cleary (1988) intro-
+duced a more difficult variant which he called left-hand deletion. The variant is similar to
+the C-test, but the first “half” of the word is deleted instead of the end of the word. Later,
+Kéberl and Sigott (1994) refer to this variant as the X-test.2° The previous example is trans-
+formed into X-test below.
+
+The roots of humanity can be traced back to millions of years ago. __e primary
+
+ence comes __om fossils — skulls, tons and __ne fragments. tists have
+
+__ny tools __at allow __em to __act subtle __ ation from __ent bones __d
+their __ mental settings. ___ern forensic ___rk in __e field ___d in __tories can
+__w provide a rich understanding of how our ancestors lived.
+
+In standard C-tests, one of the main challenges consists in selecting the correct inflection
+of the solution, especially for languages with a rich morphology. In X-tests, the inflected
+ending of the word is provided and thus the focus is shifted towards lexical-semantic chal-
+lenges (Scholten-Akoun et al., 2014) . Cleary (1988) and Kéberl and Sigott (1994) find that
+the X-test is considerably more difficult than the C-test and discriminates better between
+the participants. This could be explained by the results of psycholinguistic experiments
+that have shown that the information value of the initial part of a word is higher than the
+final part (Broerse and Zwaan, 1966) and that words are easier to recall based on their on-
+set (Kinoshita, 2000). Another explanation could be the ambiguity of the solution. As word
+
+20Tn Beinborn et al. (2015a), we used the term prefix deletion test, but X-test is used throughout the thesis to
+be more consistent with related work.
+
+34
+2.3. Text-Completion Exercises
+
+endings vary less than word onsets (at least for the languages under study), many X-test
+gaps allow multiple solutions that are equally valid. In a detailed item analysis of cloze
+tests, Kobayashi (2002) found that gaps which allow multiple solutions are more difficult to
+solve than non-ambiguous gaps. He argued that these items require more cognitive ability
+to evaluate the wide range of possible answers. The X-test is thus a good variant to assess
+more advanced students up to native speakers.
+
+Terminological conventions In this thesis, we do not distinguish between exercises for
+
+formative assessment and tests for summative assessment as almost all exercises can be
+
+used for both scenarios. The two terms test and exercise will thus be used interchangeably.
+The following terms are used to describe text-completion exercises:
+
+« A gap is one item in a text-completion exercise. The first gap in the C-test above is
+T__ and will serve as an example here.
+
+A solution for a gap is a word that solves the gap correctly. For some gaps, multiple
+
+solutions are valid. The solution for the example gap is The.
+
+« An answer is a word that has been provided by a participant to fill the gap. For
+the example gap, most participants provided the solution The as answer, but some
+provided To. Answers that are non-words are marked with an asterisk, e.g. *Teh.
+
+¢ The hint of a gap is the part of the word that is already provided. In C-tests, it is the
+first “half” of the word (the prefix, T in the example) and in X-tests the second “half”
+(e for the example gap). Cloze tests usually do not display a hint.
+
+« A candidate is a word that fulfills the formal constraints of the gap, ie. it is part of
+the vocabulary, it contains the hint and has the correct length. Candidates for the
+example are Toe, Tip, To, The, Tan, ...
+
+« A distractor is a candidate for the gap that is not a solution. In closed exercises,
+
+each gap is presented along with a fixed set of candidates. To solve the gap, the
+
+participant needs to distinguish the solution from the distractors. Figure 1.2 displays a
+
+cloze gap with five candidates: the solution observance and the distractors instincts,
+
+presumption, expiation, and implements.
+
+2.3.3 Properties of Text-Completion Exercises
+
+The strict construction principles for text-completion exercises reduce the influence of the
+educator and increase the objectivity. The reliability and validity of text-completion exer-
+cises have been subject to many psychological analyses and have shown positive results,
+particularly for the C-test. While the reliability of the C-test has been widely acknowledged
+(most recently by Khodadady and Hashemi (2011)), the question “what the test actually
+measures”, also called the construct validity, has been more conversely debated. Klein-
+
+35
+CHAPTER 2, EXERCISES FOR LANGUAGE LEARNING
+
+Braley (1985, p. 79) argues that the C-test measures general language proficiency, involving
+all levels of language:
+
+If the learner’s competence is fully developed he or she will be able to use all levels
+of language to restore/reconstruct the text — there will be grammatical, syntactical,
+lexical, semantic, collocational, contextual, pragmatic, logical, situational clues (and
+
+no doubt many others).
+
+tt (1995) elaborates that C-test integrate vocabulary knowledge with aspects of word-
+
+NY
+:
+
+class specific syntactic competence and sentence-level syntactic competence. Ch:
+(i994) and Singleton and Little (1991), on the contrary, consider the C-test mainly as a
+tool for vocabulary research, but their definition of vocabulary is very wide and also com-
+prises morphological and syntactic aspects. More recently, Eckes and Grotjatin (2006) show
+that the C-test comprises all dimensions of general language proficiency, namely reading
+listening, writing and speaking.
+
+Micro- and macro-level processing In order to find a more common terminology, the
+strategies a learner applies for solving a C-test have been categorize’ as micro-level pro-
+cessing and macro-level processing strategies (Babaii and Ansary, 2001). Learners who ap-
+ply micro-level processing strategies only consider the gap itself and its direct context for
+solving it, while the full sentence or even the full text is taken into account for macro-level
+processing. Babati and Ansary (2001), Babali and Moghaddam (2006) and Salehi and San-
+areh (2013) examine the test taking strategies for C-tests and cloze tests by conducting
+so-called think-aloud protocols with the participants. They encouraged the participants
+to verbalize their mental processes during the actual solving attempt. They found that
+micro-and macro-level processing strategies are both required for C-test solving to approx-
+imately the same extent. Their results indicate a positive relation between test difficulty and
+processing strategies: more difficult tests trigger more macro-level processing. Babati and
+Moghaddam: (2006) report the impression, that the participants followed a hierarchical ’ *hy-
+
+pothesis testing“ approach for solving. The participants start guessing the solution based
+on micro-level cues and then refine their guesses by insights from macro-level processing
+strategies. Grotjaln and Stermmer (2002) further examine this aspect and find evidence
+that C-test solving primarily involves micro-level processing and that macro-level process-
+ing only plays a minor role. Sigett (2006) refines this conclusion by adding the finding that
+more proficient learners apply both micro-level and macro-level processing strategies when
+solving a C-test, whereas novice learners only focus on micro-level cues. This is in line with
+Klein-Braley’s claim that proficient learners use knowledge from all levels of language.
+
+Recognition vs production Ina related debate, it has been discussed whether C-test solv-
+ing is rather a recognition or a production task. Cohen (1984) argues that the given prefixes
+
+36
+2.3. Text-Completion Exercises
+
+reduce the extent to which productive skills are required. He therefore considers the C-test
+to be only a test of reading ability. Harsch and Hartig (2015) show that the C-test results of
+students correlate highly with their results for listening and reading tests. They conclude
+that the C-test is a very good predictor for receptive language skills. They did not include
+any tests of productive language skills in their analyses. Jakschik et al. (2010) transform
+the C-test into a true recognition test by providing multiple choice options and find that
+this variant is significantly easier than open C-test gaps. This indicates that C-test solving
+requires both, receptive and productive skills.
+
+Item dependencies In most text-completion exercises, several gaps occur in one sentence.
+As a consequence, many gaps can only be solved if the context has been restored correctly
+by solving the preceding gaps. This phenomenon of item dependencies is particularly rel-
+evant for psychological analyses based on the item response theory (see section 3.4.2 for
+an explanation). The most common models in item response theory assume local indepen-
+dence between items. As this is a counter-intuitive assumption for C-tests, Harsch and
+Hartig (2010) and Krampen (2014) analyze the occurrences of dependencies between items.
+Eckes and Baghaei (2015) and Schroeders et al. (2014) aim at determining better models that
+incorporate local dependence with mixed results. This aspect will be discussed in more de-
+tail in chapter 6.
+
+It can be concluded that text-completion exercises fulfill the educational criteria to a
+satisfactory extent and that they tap both recognition and production skills. The difference
+between micro-level and macro-level processing strategies and the effect of item dependen-
+cies are important aspects for modeling the difficulty of text-completion exercises.
+
+2.3.4 Difficulty of Text-Completion Exercises
+
+After the introduction of the text-completion principle, several linguistic researchers an-
+alyzed the difficulty of the resulting exercises. Sigott (1995) distinguishes between con-
+tent and format aspects of difficulty.
+
+Exercise content The content of a text-completion exercise consists of a short text. Tay-
+lor (1953) explicitly introduced the cloze test as a measure for readability.”! If a text is
+transformed into a cloze test and this cloze test is easy to solve, Taylor claims that the un-
+derlying text exhibits high readability. This claim has found many advocates because it
+provided a means to evaluate text comprehension. It has also been strongly criticized be-
+cause completing a cloze test requires productive skills that are not necessary for reading
+
+*1The term readability is commonly used in related work and can be interpreted as the inverse of text difficulty.
+It is discussed in more detail in chapter 4.
+
+37
+CHAPTER 2, EXERCISES FOR LANGUAGE LEARNING
+
+comprehension.” Recently, the research on readability has made significant progress (see
+chapter 4) and the cloze procedure is only known as an educational exercise. The relation-
+ship between readability and exercise difficulty has been exploited by Klein-Braley (1984)
+to predict the mean difficulty for English and German C-tests. She uses a linear regression
+equation with only two difficulty indicators: average sentence length and type-token ratio.
+She reports good results for various target groups. Dérnyei and Katona (1992) question her
+findings because they analyze that the relative mean difficulty of tests is not maintained
+across samples. Skory and Eskenazi (2010) analyze the correlation between cloze easiness
+with readability scores and with co-occurrence scores. The co-occurrence score is obtained
+from a corpus and indicates how often the solution co-occurs with the neighboring content
+words in the sentence. They report very low correlation that is not even significant for the
+readability scores. Karimi (2011), on the other hand, measure lexical richness of a text as an
+indicator of readability and find that lower lexical richness leads to lower C-test difficulty
+for Iranian learners.
+
+Readability is averaged over a full text and thus can only predict the overall text diffi-
+culty. However, most text-completion exercises consist of several items that exhibit high
+variance in the difficulty. Therefore, the focus soon shifted from macro-level to micro-level
+difficulty.
+
+Brown (1989) analyzes the difficulty of individual items in English cloze tests and iden-
+tifies the word class and the local word frequency as factors correlating with cloze gap diffi-
+culty. Abraham and Chapelle (1992) analyze item properties for three variants of cloze test
+and find that the effects on difficulty vary for open cloze test and multiple-choice cloze
+tests. Unfortunately, they examine only a single test, which makes it impossible to general-
+ize their results. Dornyei and Katona (1992) analyze the performance of Hungarian learners
+on English C-tests and find that they can solve gaps with function words more easily than
+gaps with content words. Sigott (1995) examines the word frequency, the word class, and
+the constituent type of the gap for English C-tests and finds high correlation with the diffi-
+culty only for the word frequency. Klein-Braley (1996) identifies additional error patterns
+in English C-tests. She focuses on production problems (right word stem in wrong form)
+and the phenomenon of early closure, i.e. the solution works locally, but not in the larger
+context. Her findings are based on manual data analysis. Similarly, Kobayashi (2002) per-
+forms detailed item analysis of cloze tests for Japanese learners of English and finds that
+
+the word familiarity, the word class and the morphological inflection contribute to the item
+difficulty.
+
+*2Christine Klein-Braley has discussed the relationship of readability and text-completion exercises in detail
+in the chapters 11 and 14 of her habilitation Language Testing with the C-Test which she submitted in
+1994. Unfortunately, she passed away before her habilitation was published. We managed to get hold of a
+preliminary version and profited from the strong linguistic base. Fortunately, her main contributions have
+previously been published in several articles and we cite these instead.
+
+38
+2.3. Text-Completion Exercises
+
+The first automatic approach for item-level difficulty prediction was performed for cloze
+exercises. Hoshino and Nakagawa (2008) focus on grammatical distractors and developed
+path features that indicate the morphological distance from the distractors to the correct
+solution according to pre-defined patterns. In addition, they consider basic word frequency
+and length features. They attempt a binary decision between easy and hard items and
+ignore items with medium difficulty. Their approach classified only 60% of the questions
+correctly. They concluded that better word difficulty features are necessary, but did not
+follow up on this issue. Their dataset consists of questions extracted from preparation
+books for the TOEIC”? test that are annotated with difficulty values. Unfortunately, the
+origin of the difficulty values cannot be determined. We therefore do not use the dataset
+in the thesis. For the sake of completeness, we attempt a comparison to the results by
+Hoshino and Nakagawa (2008) in section 7.4.4. An approach for C-test difficulty prediction
+that complements the work in this thesis has been performed in Svetashova (2015) and is
+described in the sections 3.4 and 7.2.6.
+
+Exercise format Most analyses of exercise difficulty only focus on one specific exercise
+type and the exercise format is not considered as an additional variable. However, the
+exercise format has a strong effect on the difficulty. The difficulty of different types has been
+compared empirically by Koberl and Sigott (1994), Sigott and Koberl (1996), and Jakschik
+et al. (2010) indicating that X-tests are more difficult than C-tests and that closed formats
+are easier than half-open formats.
+
+For text-completion exercises, three design choices can be distinguished: the answer
+format, the gap type, and the deletion rate. The answer format has already been discussed
+in section 2.1.2. For closed formats, the answer can be selected from a set of options; for
+half-open formats it needs to be produced by the learner. Jakschik et al. (2010) compare
+a standard C-test with a closed C-test (multiple choice with five candidates) and find that
+the closed version is significantly easier. The absolute difficulty of closed formats strongly
+depends on the selection of the distractors. If the distractors can easily be discarded, the
+learner can guess the right solution without even knowing it. Accordingly, distractors that
+strongly compete with the solution can easily mislead the learner. Distractor selection has
+already been discussed in more detail in section 2.2.2.
+
+The gap type determines which portion of the word is deleted. The gap type is usually
+kept constant for all gaps of a test to avoid confusing the participants.“ Kéberl and Sigott
+(1994) analyze four tests each with a different gap type and examine the influence of the
+redundancy reduction on the test difficulty for German. In three cases, the end of the word
+is deleted (word-final deletion). They experiment with deleting half of the word (the stan-
+
+*Shttp://www.ets.org/toeic, accessed: December 9, 2015
+*4This holds at least for all publications about text-completion exercises that are cited in this thesis. A mix of
+different gap types would probably have a negative effect on face validity.
+
+39
+CHAPTER 2, EXERCISES FOR LANGUAGE LEARNING
+
+dard C-test gap), two thirds, and deleting everything except for the first character. In the
+fourth case, the first half of the word is deleted (the X-test gap). The authors show that for
+word-final deletion, the difficulty increases with a higher degree of redundancy reduction.
+Deleting half of the word results in easier exercises than deleting two thirds which in turn
+results in easier exercises than deleting everything but the first character. Interestingly,
+they also find that word-initial deletion is more difficult than word-final deletion (deleting
+the first half of the word is as difficult as deleting everything but the first character). The
+same tendencies can be observed for English tests, but the effects of the gap type are not
+as strong as for German (Sigott and Koéberl, 1996). These results are consistent with exper-
+iments showing that the information value of the initial part of a word is higher than the
+final part (Broerse and Zwaan, 1966) and that word-initial priming facilitates production
+(Kinoshita, 2000).
+
+On the global test level, the deletion rate determines the distribution of gaps in the text.
+The deletion rate has been expressed as a positive integer in previous work.” A deletion
+rate of n signals that every n™ word should be transformed into a gap. Higher deletion rates
+thus indicate a smaller number of gaps. For cloze tests, Oller (1973) proposes high deletion
+rates to provide a sufficient amount of context:
+
+Typically every fifth, sixth, or seventh word is deleted either from a written or spoken
+passage. It has been determined that with native speakers deleting words more fre-
+quently than one out of five creates a test of such difficulty that much discriminatory
+power is lost.
+
+For non-native speakers even higher deletion rates such as deleting every 12” word have
+been used (Brown, 1989). In our data, the cloze test items each consist of one sentence
+with a single gap. The C-test and the X-test are usually designed with a deletion rate of
+two, i.e. every second word is transformed into a gap. This lower deletion rate leads to a
+higher number of gaps per sentence and increases the dependency between gaps because
+the damaged context of a single gap can only be recreated by solving the surrounding gaps.
+
+An additional aspect for difficulty can be the visual design of the items. Bresnihan and
+Ray (1992) and Meifiner-Stiffel and Raatz (1996) experiment with different item designs that
+indicate the length of the solution with dashes or dots. In C-tests and X-tests, the partici-
+pants can infer the interval for the length of the solution word by the length of the provided
+part pas [2 |p|, 2 |p| +1]. However, many participants seem to forget this length princi-
+ple while solving the test and provide solutions that are either too long or too short (see
+section 6.1). The works mentioned above show that directly visualizing the length principle
+facilitates the test for the participants.
+
+*5The word “rate” is thus slightly misleading here.
+
+40
+2.4. Chapter Summary
+
+2.3.5 Conclusion
+
+We have seen that numerous manual analyses have been performed focusing on specific
+aspects of difficulty. In real learning scenarios, individual difficulty effects can usually not
+be observed independently of other influences. It is therefore important to combine all
+aspects into an integrated concept of difficulty. The inferences about difficulty have usually
+been drawn from existing results. The next step consists in predicting the difficulty for
+unseen exercises.
+
+2.4 Chapter Summary
+
+This chapter has described a wide range of text-based exercises that can be applied in
+different learning scenarios. Based on the analyses in this chapter, we conclude that text-
+completion exercises are a reasonable choice for fast language proficiency tests. They meet
+the educational quality criteria and can be generated and manipulated automatically be-
+cause exercise content and exercise format are separable. Half-open text-completion exer-
+cises like C-tests and X-tests provide a trade-off between recognition and production exer-
+cises and function as an integrative measure of linguistic knowledge and comprehension
+abilities. We have seen that approaches to automatic exercise generation have already pro-
+vided a wide range of methods for different exercise types. Improving the quality and the
+adaptivity of these generated exercises requires a concept for measuring and adapting the
+difficulty. Related work has provided analyses of the influence of content and format factors
+on the exercise difficulty. In the following chapter, we contribute a model which consoli-
+dates the different findings into an integrated concept of difficulty.
+
+41
