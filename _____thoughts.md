@@ -1,3 +1,89 @@
+##  05/03/2023
+clean bathroom
+clean room 
+buy lamps
+buy toilet pAPER
+get macros
+apply to jobs
+pratice sql
+plan going to vignesh
+write related work
+redo/organize experiment
+
+## logic yt videos
+https://www.youtube.com/watch?v=xL0kNw5TudI
+https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B
+https://www.youtube.com/watch?v=JBjAyrX7wms&list=PLKI1h_nAkaQq5MDWlKXu0jeZmLDt-51on
+https://www.youtube.com/watch?v=qTAcRSnObdw&list=PLvROQ_RldgC8KYmkQsF_zKqAXD_Xphr9n
+https://www.youtube.com/watch?v=p-ME3DW2BVg&list=PLzVTusWerVcKx3crsij5wrRfIqWp3UXc7
+https://www.youtube.com/watch?v=J3aUVwG1S_k&list=PLOxODW9vlVLQl6bgRfH7JO1P_qMARo_nq
+https://www.youtube.com/watch?v=B-eh2SD54fM
+https://www.youtube.com/watch?v=E383eEA54DE
+https://www.youtube.com/watch?v=itrXYg41-V0
+https://www.youtube.com/watch?v=qL6HMPOYlVs&list=PLS8vfA_ckeuZ9UjAHhA1q-ROZGuE_h21V
+https://www.youtube.com/watch?v=usjOF3eHhHs&list=PLPgKBibhNh73rAqxIaltEHw-qwMJISwOL
+https://www.youtube.com/watch?v=NmbhVUHjLgQ&list=PLBAqLRlJe9p4sSXYnSVZUyVFeRFDFB4RR
+https://www.youtube.com/watch?v=M14ReHfPFUw
+https://www.youtube.com/watch?v=rjV4AO0iIVY&list=PLjJhPCaCziSRSUtQiTA_yx5TJ76G_EqUJ
+https://www.youtube.com/watch?v=eJnvehWcrhY&list=PLCF98418AFB59232D
+https://www.youtube.com/watch?v=JQBRzsPhw2w
+https://www.youtube.com/watch?v=0ferkjtPPY8&list=PL2uWqdcaf189i8r_Rh-1dFLmRjKN3EwDI
+https://www.youtube.com/watch?v=ExE8ucCfmH0
+https://www.youtube.com/watch?v=PcroynVFDjg
+https://www.youtube.com/watch?v=gfYwQ7oxDok&list=PLbMVogVj5nJS1F-yeDwn16nsuYrpSYzaO
+https://www.youtube.com/watch?v=_Iz83hfkFds
+https://www.youtube.com/watch?v=BweGI6TK5pQ
+https://www.youtube.com/watch?v=xkRC_VtBXqU&list=PLqsoWxJ-qmMtr7i6D_yvSpPC-hTOzdWas
+https://www.youtube.com/watch?v=6GF5CR1jFjk&list=PLtxJg53s2o0Puao_SpOtSLDhFuHid7WBA
+https://www.youtube.com/watch?v=me6mdtjesWk&list=PL4ucU6E9Yvc9JbhNrFCrG80mpgQ_RrfGb
+https://www.youtube.com/watch?v=xlUFkMKSB3Y
+https://www.youtube.com/watch?v=isoLnspA-1E&list=PLqEJ_rxb3Xf0dTy_-dSqINnAD5tbmpUx8
+https://www.youtube.com/watch?v=TEkTbq5EE_M&list=PL_brvgGqC7wQC7ijYexjDw3j2pt5UN0l8
+https://www.youtube.com/watch?v=kCEAFjjTJyU&list=PLidiQIHRzpXJy4jlbL7Ax5zJk_-_XlaIP
+https://www.youtube.com/watch?v=NKEhdsnKKHs&list=PLaNzSuseP93pJqpc3Rw4tK4MLOOtXsj23
+https://www.youtube.com/watch?v=EsnJ-YEMbhk&list=PLDDGPdw7e6AhsNuxXP3D-45Is96L8sdSG
+https://www.youtube.com/watch?v=HAnw168huqA
+
+## 03/03/2023
+https://www.youtube.com/watch?v=NRor2EmYZ0s ceo of ibm about work life balance
+## SQL
+https://in.indeed.com/career-advice/interviewing/postgresql-dba-interview-questions
+https://mindmajix.com/postgresql-interview-questions
+https://in.indeed.com/career-advice/interviewing/postgresql-dba-interview-questions
+https://fabric.inc/blog/ecommerce-database-design-example/
+https://sqlpad.io/playground/
+https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
+
+
+https://www.youtube.com/results?search_query=sql+freecodecamp
+https://www.youtube.com/watch?v=HXV3zeQKqGY
+https://www.youtube.com/watch?v=HvxmF0FUwrM
+https://www.youtube.com/watch?v=m1KcNV-Zhmc
+https://www.youtube.com/watch?v=FNYdBLwZ6cE
+https://www.youtube.com/watch?v=qyAgWL066Vo&list=PLBTZqjSKn0IeKBQDjLmzisazhqQy4iGkb
+https://www.youtube.com/watch?v=HAI5DG_l60k&list=PL1XF9qjV8kH12PTd1WfsKeUQU6e83ldfc
+https://www.youtube.com/watch?v=-t-8-xoLyv4&list=PLT2ddT_LoyRwnXaBVBDtIxJsGMnT4eKXr
+https://www.youtube.com/watch?v=nJIEIzF7tDw
+https://www.youtube.com/watch?v=M-55BmjOuXY
+https://www.youtube.com/watch?v=9URM1_2S0ho&list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL
+## react native
+https://www.youtube.com/watch?v=X8ipUgXH6jw
+
+## 02/03/2023
+https://mltechniques.com/resources/
+https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
+https://video-archive.fields.utoronto.ca/view/2800
+	https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=irish+machine+translation&btnG=
+	https://scholar.google.com/scholar?cites=11083201610188785357&as_sdt=2005&sciodt=0,5&hl=en
+	https://aclanthology.org/L16-1090/
+	https://www.gaois.ie/en/corpora/parallel/data/
+	https://docs.google.com/document/d/1U72AmI8FEYuFJnfSaFmjSJyzDeBmTMIe48pUPOBuXOA/edit#
+	https://paperswithcode.com/task/word-alignment
+	https://paperswithcode.com/paper/meeting-the-needs-of-low-resource-languages
+	https://paperswithcode.com/paper/simalign-high-quality-word-alignments-without
+	https://paperswithcode.com/paper/word-alignment-by-fine-tuning-embeddings-on
+	https://github.com/lilt/alignment-scripts/commits?author=kellymarchisio
+	
 ## 27/02/2023
 
 ## intro to deep lesarning and generative models

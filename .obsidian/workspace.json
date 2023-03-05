@@ -59,16 +59,24 @@
             "id": "9c038b4076bfc65f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "_____thoughts.md",
-                "mode": "source",
-                "source": false
+                "file": "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/user-modeling-in-language-learning-with-macaronic-texts .pdf"
+              }
+            }
+          },
+          {
+            "id": "232a2e73e3ea88f0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/user-modeling-in-language-learning-with-macaronic-texts .pdf"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/user-modeling-in-language-learning-with-macaronic-texts .pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,28 +171,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f9f9ce51f9f6dfd9",
+  "active": "232a2e73e3ea88f0",
   "lastOpenFiles": [
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/predicting-learner-knowledge-of-individual-words-using-machine-learning.pdf",
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/Unconfirmed 591565.crdownload",
+    "_____thoughts.md",
+    "PhD/git-repos/list.md",
+    "PhD/papers/others/to-consider/1_LAT_165_Hf1q.mp4",
+    "PhD/papers/others/to-consider/1_LAT_164_Ir7X.mp4",
+    "PhD/papers/others/to-consider/comparing-native-and-learner-englishes-using-a-large-pre-trained-language-model.pdf",
+    "PhD/papers/others/to-consider/Unconfirmed 127571.crdownload",
+    "PhD/papers/others/to-consider/exploring-learner-language-through-corpora--comparing-and-interpreting-corpus-frequency-information.pdf",
+    "PhD/papers/others/to-consider/Unconfirmed 91064.crdownload",
+    "PhD/papers/others/to-consider/intbert_acl19paper-3.pdf",
+    "PhD/papers/others/to-consider/what-does-bert-look-at--an-analysis-of-bert-s-attention.pdf",
+    "PhD/papers/others/to-consider/do-attention-heads-in-bert-track-syntactic-dependencies-.pdf",
+    "PhD/docs/grc google docs.md",
+    "PhD/papers/thesis/A-Language-Learning-Framework-based-on-macaronic-texts.md",
+    "actions/README.md",
     "PhD/aied2023-call-for-aper.md",
     "PhD/meta-learning with code.md",
     "PhD/thomas-project/overview.md",
     "PhD/thomas.md",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/abstract.md",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/ideas.md",
-    "PhD/papers/others",
-    "PhD/papers/NIPS-2015/deep-knowledge-tracing",
-    "PhD/papers/NIPS-2015",
-    "_____thoughts.md",
     "PhD/papers/thesis/modelling-and-selection-of-context-for-better-synonym-acquistion/overview.md",
     "PhD/papers/others/what-type-of-vocabulary-knowledge-predictics-reading-comprehension/what-type-of-vocabulary-knowledge-predicts-reading-comprehension.md",
-    "PhD/papers/thesis/modelling-and-selection-of-context-for-better-synonym-acquistion",
-    "PhD/papers/AIED-2022/phd_978-3-031-11644-5.pdf",
-    "PhD/papers/AIED-2022/self-attention-in-knowledge-tracing-why-it-works",
-    "PhD/papers/AIED-2022/predicting-second-language-learners-actual-knowledge-using-self-perceived-knowledge",
-    "PhD/papers/AIED-2022/automated-scoring-for-reading-comprehension-via-in-context-bert-tuning",
     "PhD/papers/AIED-2022/Untitled.md",
-    "PhD/papers/AIED-2022/balancing-cost-and-quality-an-exploration-of-human-in-the-loop-frameworks-for-automated-short-answer-scoring",
-    "PhD/papers/AIED-2022/an-intelligent-interactive-support-system-for-word-usage-learning-in-second-languages",
     "PhD/papers/AIED-2022/assesing-readability-by-filling-cloze-items-with-transformers/overview.md",
     "Untitled 7.md",
     "PhD/papers/Untitled.md",
