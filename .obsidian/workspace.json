@@ -69,9 +69,11 @@
             "id": "232a2e73e3ea88f0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/user-modeling-in-language-learning-with-macaronic-texts .pdf"
+                "file": "_____thoughts.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -122,7 +124,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/user-modeling-in-language-learning-with-macaronic-texts .pdf",
+                "file": "_____thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +176,8 @@
   },
   "active": "232a2e73e3ea88f0",
   "lastOpenFiles": [
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/Untitled-2023-03-04-1037.excalidraw",
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/user-modeling-in-language-learning-with-macaronic-texts .pdf",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/predicting-learner-knowledge-of-individual-words-using-machine-learning.pdf",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/Unconfirmed 591565.crdownload",
     "_____thoughts.md",
@@ -184,8 +189,6 @@
     "PhD/papers/others/to-consider/exploring-learner-language-through-corpora--comparing-and-interpreting-corpus-frequency-information.pdf",
     "PhD/papers/others/to-consider/Unconfirmed 91064.crdownload",
     "PhD/papers/others/to-consider/intbert_acl19paper-3.pdf",
-    "PhD/papers/others/to-consider/what-does-bert-look-at--an-analysis-of-bert-s-attention.pdf",
-    "PhD/papers/others/to-consider/do-attention-heads-in-bert-track-syntactic-dependencies-.pdf",
     "PhD/docs/grc google docs.md",
     "PhD/papers/thesis/A-Language-Learning-Framework-based-on-macaronic-texts.md",
     "actions/README.md",

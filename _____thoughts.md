@@ -1,4 +1,17 @@
 ##  05/03/2023
+## category theory
+https://www.youtube.com/watch?v=yAi3XWCBkDo category theory
+https://www.youtube.com/watch?v=ZG6t0-JMrw0
+https://www.youtube.com/watch?v=US4Zr1WKD-8&list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l
+https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_
+https://www.youtube.com/watch?v=SmXB2K_5lcA
+https://www.youtube.com/watch?v=eXBwU9ieLL0
+https://www.youtube.com/watch?v=U56kGttITyI&list=PLuFcVFHMIfhKFQJsilw-W7dVtPprKU3-f
+https://www.youtube.com/watch?v=BF6kHD1DAeU&list=PLGCr8P_YncjVjwAxrifKgcQYtbZ3zuPlb
+https://www.youtube.com/watch?v=BF6kHD1DAeU&list=PLGCr8P_YncjVjwAxrifKgcQYtbZ3zuPlb
+https://www.youtube.com/watch?v=JOp7mH72Jlg&list=PL8yHsr3EFj51F9XZ_Ka4bLnQoxTdMx0AL
+https://www.youtube.com/watch?v=jBkO1eerU8A
+https://www.youtube.com/watch?v=US4Zr1WKD-8&list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l
 clean bathroom
 clean room 
 buy lamps
