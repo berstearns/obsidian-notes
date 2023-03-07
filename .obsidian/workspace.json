@@ -76,9 +76,77 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "323826e04b8d1091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PhD/submissions/peronalizing-bert-for-l2-prediciton/related work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ad9b50b28b550d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PhD/papers/NIPS-2014/optimal-teaching-for-limited-capacity-human-learners.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5086c40a465f3da8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PhD/papers/others/to-consider/links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6aecb5c61ea0f86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cardamom/learning-app/to-explore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fce263540c72d1a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/predicting-learner-knowledge-of-individual-words-using-machine-learning.pdf"
+              }
+            }
+          },
+          {
+            "id": "c8ce482860b627e3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/assessing-readability-by-filling-cloze-items-with-transformers.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -124,8 +192,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_____thoughts.md",
+                "file": "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/predicting-learner-knowledge-of-individual-words-using-machine-learning.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,21 +241,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "232a2e73e3ea88f0",
+  "active": "3fce263540c72d1a",
   "lastOpenFiles": [
-    "PhD/submissions/peronalizing-bert-for-l2-prediciton/Untitled-2023-03-04-1037.excalidraw",
-    "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/user-modeling-in-language-learning-with-macaronic-texts .pdf",
-    "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/predicting-learner-knowledge-of-individual-words-using-machine-learning.pdf",
-    "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/Unconfirmed 591565.crdownload",
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/LDK_2023_predicting_language_production_of_second_language_learners.pdf",
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/Unconfirmed 164325.crdownload",
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/comparing-native-and-learner-englishes-using-a-large-pre-trained-language-model.pdf",
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/Unconfirmed 669382.crdownload",
+    "cardamom/learning-app/papers/enhancing-l2-learning-through-a-mobile-assisted-spaced-repetition-tool--an-effective-but-bitter-pill-.md",
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/methods-for-language-learning-assessment-at-scale--duolingo-case-study.pdf",
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/Unconfirmed 120065.crdownload",
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/analyzing-learner-understanding-of-novel-l2-vocabulary.pdf",
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/Unconfirmed 356978.crdownload",
+    "cardamom/learning-app/Untitled.md",
+    "cardamom/learning-app/papers",
+    "cardamom/learning-app/to-explore.md",
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/_bibs.md",
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/a-trainable-spaced-repetition-model-for-language-learning.pdf",
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/Unconfirmed 457487.crdownload",
+    "PhD/papers/EDM-2019/das3h--modeling-student-learning-and-forgetting-for-optimally-scheduling-distributed-practice-of-skills.md",
+    "PhD/papers/others/to-consider/links.md",
+    "PhD/papers/NIPS-2014/optimal-teaching-for-limited-capacity-human-learners.md",
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/related work.md",
     "_____thoughts.md",
+    "PhD/papers/ICEIT-2019/student-performance-prediction-and-classification-using-machine-learning-algorithms.md",
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/abstract.md",
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/bibs.md",
+    "PhD/submissions/peronalizing-bert-for-l2-prediciton/ideas.md",
+    "PhD/papers/ICEIT-2019/development-of-a-web-based-online-examination-for-screening-gifted-students.md",
     "PhD/git-repos/list.md",
-    "PhD/papers/others/to-consider/1_LAT_165_Hf1q.mp4",
-    "PhD/papers/others/to-consider/1_LAT_164_Ir7X.mp4",
-    "PhD/papers/others/to-consider/comparing-native-and-learner-englishes-using-a-large-pre-trained-language-model.pdf",
-    "PhD/papers/others/to-consider/Unconfirmed 127571.crdownload",
-    "PhD/papers/others/to-consider/exploring-learner-language-through-corpora--comparing-and-interpreting-corpus-frequency-information.pdf",
-    "PhD/papers/others/to-consider/Unconfirmed 91064.crdownload",
-    "PhD/papers/others/to-consider/intbert_acl19paper-3.pdf",
     "PhD/docs/grc google docs.md",
     "PhD/papers/thesis/A-Language-Learning-Framework-based-on-macaronic-texts.md",
     "actions/README.md",
@@ -196,15 +276,8 @@
     "PhD/meta-learning with code.md",
     "PhD/thomas-project/overview.md",
     "PhD/thomas.md",
-    "PhD/submissions/peronalizing-bert-for-l2-prediciton/abstract.md",
-    "PhD/submissions/peronalizing-bert-for-l2-prediciton/ideas.md",
     "PhD/papers/thesis/modelling-and-selection-of-context-for-better-synonym-acquistion/overview.md",
     "PhD/papers/others/what-type-of-vocabulary-knowledge-predictics-reading-comprehension/what-type-of-vocabulary-knowledge-predicts-reading-comprehension.md",
-    "PhD/papers/AIED-2022/Untitled.md",
-    "PhD/papers/AIED-2022/assesing-readability-by-filling-cloze-items-with-transformers/overview.md",
-    "Untitled 7.md",
-    "PhD/papers/Untitled.md",
-    "PhD/papers/CALL-2022/metadata formats for learner corpora case study and discussion.md",
-    "PhD/papers/CALL-2022/exploring linguistic acceptabilty in swedish leaerners language.md"
+    "PhD/papers/AIED-2022/Untitled.md"
   ]
 }

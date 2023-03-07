@@ -1,3 +1,10 @@
+## 07/03/2023
+https://python.plainenglish.io/top-8-algorithms-every-programmer-should-know-93c826267938
+
+## 06/03/2023
+## SQL
+https://www.sqlstyle.guide/
+
 ##  05/03/2023
 ## category theory
 https://www.youtube.com/watch?v=yAi3XWCBkDo category theory
