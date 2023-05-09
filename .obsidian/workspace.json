@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PhD/docs/references-bibs.md",
+                "file": "PhD/grc-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PhD/docs/references-bibs.md",
+                "file": "PhD/grc-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,10 +165,11 @@
   },
   "active": "42faeffcabb59ee6",
   "lastOpenFiles": [
+    "PhD/docs/grc_google_docs.md",
+    "PhD/docs/references-bibs.md",
     "books-to-read/current-books/software-architecture/software-architecture-cesare/softwarearchitecture_Cesare Pautasso - Software Architecture_ visual lecture notes-Cesare Pautasso (2023)",
     "books-to-read/current-books/software-architecture/software-architecture-cesare/softwarearchitecture_Cesare Pautasso - Software Architecture_ visual lecture notes-Cesare Pautasso (2023).pdf",
     "PhD/papers/top-cited-papers/relavant-papers.md",
-    "PhD/docs/references-bibs.md",
     "PhD/papers/top-cited-papers/related-authors.md",
     "___links.md",
     "PhD/papers/top-cited-papers",
@@ -196,7 +197,6 @@
     "makeurbook/Unconfirmed 622854.crdownload",
     "books-to-read/current-books/modern-ui/mastering-react-test-driven-development/react_Daniel Irvine - Mastering React Test-Driven Development_ Build simple and maintainable web apps with React, Redux, and GraphQL, 2nd Edition-Packt Publishing (2022).pdf",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/syntax-representation-in-word-embeddings-and-neural-networks-–-a-survey.pdf",
-    "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/probing-pretrained-language-models-for-lexical-semantics.pdf",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/_bibs.md",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/training_phase.png",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/training_phase.jpeg",
