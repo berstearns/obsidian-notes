@@ -4,5 +4,6 @@
   "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "/",
-  "attachmentFolderPath": "PhD/papers"
+  "attachmentFolderPath": "books-to-read/c-cpp/other",
+  "vimMode": true
 }

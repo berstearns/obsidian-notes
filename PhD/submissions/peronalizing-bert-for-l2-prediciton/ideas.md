@@ -1,4 +1,17 @@
 
+there are two explicit gaps that i'm trying to fill
+ 1. use machine learning models that are static making it  hard to adapt or transfer to new tasks
+ 2. the features modelled used by those models are usually handcrafted and mostly related to the text not to the learenr 
+ 3. they model how features of the text. the learner is interacting with affects the learner outcome but do not create features related to the actual learner knowledge
+
+
+\
+MihaescuM.C. _et al._
+
+### Review on publicly available datasets for educational data mining
+
+
+
 
  1- The domain and its interest leading up to the focus of this paper. 
  ITS 

@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=YkOSUVzOAA4
+https://portal.gitnation.org/contents/full-stack-and-typesafe-react-native-apps-with-trpcio
+https://trpc.io/docs/reactjs/setup
+https://www.youtube.com/watch?v=UfUbBWIFdJs 
+https://github.com/t3-oss/create-t3-app
+https://www.youtube.com/watch?v=S6rcrkbsDI0
+https://www.youtube.com/watch?v=UfUbBWIFdJs
+https://www.youtube.com/watch?v=GuzZN-4kc3w
+	https://www.youtube.com/results?search_query=trpc+crash+course
+	https://www.youtube.com/watch?v=6Q4v6jdFzWA
+https://trpc.io/docs/reactjs/setup
+https://trpc.io/#try-it-out

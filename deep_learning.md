@@ -1,0 +1,5 @@
+[[cnn]]
+[[pytorch]]
+[[transformers]]
+[[deep learning for computer vision]]
+[[ NN from scratch adrej karp]]

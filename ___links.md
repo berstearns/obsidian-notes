@@ -1,3 +1,52 @@
+## 09/05/2023
+https://www.amazon.co.uk/YITAHOME-Drawers-Cationic-10-Drawer-Organizer/dp/B09MLG77KZ/ref=psdc_2850819031_t4_B08PBR6Z3Y?th=1
+
+## 06/05/2023
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=psycholinguistic+of+language+learning&btnG=
+https://academic.oup.com/applij/article-abstract/24/2/168/173510
+https://eric.ed.gov/?id=ED041285
+https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-1770.1993.tb00627.x?casa_token=JWt5gA1IoxMAAAAA:ojF1xs2aaKLQ17Qf-wuSeKdXaW0NQJCyes_RDmORwKs3gNQQbj_0JwRmzH_DyPmh8ot1gBjU1MnqMTcf
+https://eric.ed.gov/?id=ED122626
+https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-1770.1976.tb00274.x?casa_token=BMErR_zZ1LAAAAAA:PSiMGWM4N8F_3N4eL-Zgw_GA_MNQpGHE1qC0SfkfkfBTcOjxYkHy_JyNwbrXefuvG_3gJ18OCeavgLMa
+
+## 04/05/2023
+https://drive.google.com/drive/u/0/folders/1z_ZH5cZe0RKcOaHCCleY1U-tn3HHBYa8
+https://www.techempower.com/benchmarks/#section=data-r21
+https://drogon.org/
+https://drogonframework.github.io/drogon-docs/#/ENG-02-Installation?id=database-environment
+https://www.ndrc.ie/programmes
+https://www.youtube.com/watch?v=2IOObyGbNWc
+https://ndrc.my.stacker.app/startups
+https://ndrc.my.stacker.app/my-profile
+https://docs.google.com/presentation/d/1K0Z7PisL7xJj03Y3xA9UiOiF-cYPdKRH2pL_pZdaS3U/edit#slide=id.gcb6eb61090_0_119
+https://docs.google.com/presentation/d/1zV-RjuAUI9emlqgt8NYM-EjznoPcQGDqJeAlMKsvAX0/edit?pli=1#slide=id.g21cbdaa61d9_0_60
+https://www.freecodecamp.org/news/tmux-in-practice-local-and-nested-remote-tmux-sessions-4f7ba5db8795/
+https://mail.google.com/mail/u/2/#inbox
+https://mail.google.com/mail/u/0/#inbox
+https://mail.google.com/mail/u/1/#inbox
+https://mail.google.com/mail/u/2/#inbox/FMfcgzGsmDsbXrqxhjFlmsGsCztmSMQh
+https://huggingface.co/docs/transformers/main_classes/tokenizer
+https://mail.google.com/mail/u/0/#inbox
+https://mail.google.com/mail/u/2/#inbox/FMfcgzGsmNZGSKWjXKpLFnNfmpFtfCxM
+https://github.com/UniversalDependencies/UD_English-ESL
+https://www.ilexir.co.uk/datasets/index.html
+https://calendar.google.com/calendar/u/2/r
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=predicting+high+shcool+studetns+reading+comprehension&btnG=&oq=predicting+high+shcool+studetns+reading+comp
+http://crr.ugent.be/archives/1352
+https://www.ilexir.co.uk/datasets/index.html
+https://benjamins.com/catalog/ijlcr
+https://www.tandfonline.com/toc/uaai20/current
+https://doi.org/10.1080/08839514.2017.1315503
+https://www.diva-portal.org/smash/get/diva2:1475186/FULLTEXT01.pdf
+https://www.google.com/search?q=what%27s+the+required+granularity+to+emulate+learners+errors%2Fproduction&oq=what%27s+the+required+granularity+to+emulate+learners+errors%2Fproduction&aqs=chrome..69i57.212j0j1&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=prompting+for+masked+language+modelling&oq=prompting+for+masked+language+modelling&aqs=chrome..69i57j33i160l2j33i22i29i30l2.6315j1j1&sourceid=chrome&ie=UTF-8
+https://thegradient.pub/prompting/#:~:text=A%20prompt%20is%20a%20piece,getting%20No%20reason%20to%20watch.
+https://arxiv.org/pdf/2201.12109.pdf
+https://developers.reinfer.io/blog/2022/05/04/prompting
+https://www.promptingguide.ai/techniques/ape
+https://arxiv.org/abs/2101.00190
+https://arxiv.org/abs/2104.08691
+
 # 17/10/2022
 https://www.youtube.com/watch?v=mEPm9w5QlJM&ab_channel=freeCodeCamp.org
 https://www.youtube.com/watch?v=bUbO73SI0LI&list=PL6yRaaP0WPkWRsXJgdnw9lj1vchAaKwfS&index=3&ab_channel=VandadNahavandipoor

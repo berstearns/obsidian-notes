@@ -1,0 +1,1 @@
+https://www.youtube.com/watch?v=N15mjfAEPqw convolutional neural networks

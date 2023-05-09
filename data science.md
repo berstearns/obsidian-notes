@@ -1,0 +1,1 @@
+https://www.youtube.com/watch?v=QI0qjDfMtAw&list=PLxqBkZuBynVS8mDTc8ZGermXiS-32pR2y portfolio playlsit
