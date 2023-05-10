@@ -1,3 +1,10 @@
+## 10/05/2023
+मैं **नहीं** समझा। I did not understand.
+मैं ज्योतिष **हूँ** | I am an astrologer.
+हथियार हो **सकता** है। It could be a weapon
+वह जानती है **कि** मैं कौन हूँ! She knows who I am!
+यह रहे **हमारी** किताब। Here are our books.
+
 ## 11/04/2023
 
 #### story

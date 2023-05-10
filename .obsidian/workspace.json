@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PhD/grc-2023.md",
+                "file": "hindi/sentences.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PhD/grc-2023.md",
+                "file": "hindi/sentences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +165,7 @@
   },
   "active": "42faeffcabb59ee6",
   "lastOpenFiles": [
+    "PhD/grc-2023.md",
     "PhD/docs/grc_google_docs.md",
     "PhD/docs/references-bibs.md",
     "books-to-read/current-books/software-architecture/software-architecture-cesare/softwarearchitecture_Cesare Pautasso - Software Architecture_ visual lecture notes-Cesare Pautasso (2023)",
@@ -188,7 +189,6 @@
     "PhD/submissions/Workshop-on-Profiling-second-language-vocabulary-and-grammar-2023/submission.md",
     "PhD/papers/thesis/modelling-and-selection-of-context-for-better-synonym-acquistion/overview.md",
     "PhD/papers/thesis/a-language-learning-framework-based-on-macaronic-texts/phd_RENDUCHINTALA-DISSERTATION-2020.pdf",
-    "PhD/grc-2023.md",
     "PhD/submissions/Workshop-on-Profiling-second-language-vocabulary-and-grammar-2023/presentation.md",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/LDK_2023_predicting_language_production_of_second_language_learners.pdf",
     "p-extenders.md",
