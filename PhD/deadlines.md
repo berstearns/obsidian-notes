@@ -1,3 +1,9 @@
+https://linguistlist.org/issues/34/907/
+http://ranlp.org/ranlp2023/index.php/first-call-for-papers-2/
+https://www.sciencedirect.com/science/article/abs/pii/S1060374323000139?fr=RR-9&ref=pdf_download&rr=7c59ab44d8c04176
+https://ea-tel.eu/jtelss23
+https://conferenceindex.org/conferences/language-acquisition
+https://easychair.org/cfp/TELIC2023
 https://www.solaresearch.org/events/lak/lak24/
 http://www.eurocall-languages.org/
 

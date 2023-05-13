@@ -1,3 +1,7 @@
+https://www.universityofgalway.ie/courses/research-postgraduate-programmes/phd-and-masters/insight-engineering.html#course_fees
+## 10/05/2023
+https://inciteful.xyz/
+
 # 09/03/2023
 
 

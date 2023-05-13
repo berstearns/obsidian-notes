@@ -1,3 +1,67 @@
+https://arxiv.org/abs/2101.08231
+https://arxiv.org/abs/2212.00138
+https://www.proquest.com/docview/2603407508?pq-origsite=gscholar&fromopenview=true
+
+
+
+fep scheme to john 
+drink and eat earlier to reach goals before sleep
+
+## create t3 app
+
+## npx create-t3-app@latest
+
+
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4354422
+
+6 - 9 
+me
+pavan - c
+rahul -c
+tarek - c
+raj - c
+renato - c
+~ kellon
+~ eddie
+~ jun
+~~kevlyn~~
+~~lukazs~~
+~~annanda~~
+~~felipe~~ 
+## 11/05/2023
+With a degree in Applied Mathematics and over 7 years of experience working on both AI research and Industry projects I developed a proven track record of executing end-to-end data analytics projects from understanding research topics and implementation to deploying them into small products. I developed a true passion for being innovative by experimenting new ideas that can prove to be impactful and translate complex research topics into practical implementations. I am a life-long learner excited about technology, even though my career focused mostly in Data Science and specifically in Natural Language Processing projects, I am always open-minded and motivated to learn about new domains, programming languages, paradigms and frameworks, broadening my skills apart from data science.
+
+Data Scientist with software engineering skills
+
+
+### Tell us a bit more about youself - and don't be humble!*(required)
+
+Tell us a bit more about youself - and don't be humble!*(required)
+
+
+
+1. email laura about tag key
+2. attend a4ll telco + give thomas phd summary
+	1. 
+## 10/05/2023
+## create simple login system for all apps -> with gmail
+or email confirmation
+
+## create a good looking list of items page
+with examples separate from user specific items
+
+## fix workbecnh bugs
+
+
+## scalable apis
+
+
+## boargames
+
+
+
+
 ## 06/05/2023
 
 https://aclanthology.org/2020.cmcl-1.4.pdf

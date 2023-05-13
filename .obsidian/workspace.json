@@ -23,11 +23,9 @@
             "id": "ae4b41574a0d5655",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "___links.md",
-                "mode": "source",
-                "source": false
+                "file": "PhD/papers/thesis/predicting-and-manipulating-the-difficulty-of-text-completion/DissertationBeinborn_publishedVersion_September20_online.pdf"
               }
             }
           },
@@ -37,38 +35,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PhD/papers/top-cited-papers/relavant-papers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af58907d72177c8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PhD/papers/top-cited-papers/relavant-papers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42faeffcabb59ee6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hindi/sentences.md",
+                "file": "books-to-read/current-books/modern-ui/mastering-typescript-enterprise-ready-modular-web-apps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hindi/sentences.md",
+                "file": "books-to-read/current-books/modern-ui/mastering-typescript-enterprise-ready-modular-web-apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,48 +137,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "42faeffcabb59ee6",
+  "active": "f9f9ce51f9f6dfd9",
   "lastOpenFiles": [
+    "_____thoughts.md",
+    "hindi/sentences.md",
+    "books-to-read/current-books/modern-ui/mastering-typescript-enterprise-ready-modular-web-apps.md",
+    "PhD/papers/thesis/predicting-and-manipulating-the-difficulty-of-text-completion/DissertationBeinborn_publishedVersion_September20_online.pdf",
+    "___links.md",
+    "python-standard-library.md",
+    "PhD/__links.md",
+    "PhD/papers/3501385.3543957 (1).pdf",
+    "PhD/papers/Unconfirmed 527469.crdownload",
+    "PhD/papers/3501385.3543957.pdf",
+    "PhD/papers/Unconfirmed 276126.crdownload",
+    "PhD/papers/NeurIPS-2022-training-language-models-to-follow-instructions-with-human-feedback-Paper-Conference.pdf",
+    "PhD/papers/Unconfirmed 467514.crdownload",
+    "PhD/papers/ijcl.14086.oke.pdf",
+    "PhD/papers/Unconfirmed 598499.crdownload",
+    "leetcode.md",
+    "PhD/deadlines.md",
+    "PhD/papers/ds_2305.05601.pdf",
+    "PhD/thomas-project/overview.md",
+    "german/sentences.md",
+    "youtube-links.md",
+    "PhD/papers/top-cited-papers/relavant-papers.md",
+    "__goals.md",
+    "fastapi_aws_lambda.md",
+    "youtube_videos.md",
+    "stackoverflow.md",
     "PhD/grc-2023.md",
     "PhD/docs/grc_google_docs.md",
     "PhD/docs/references-bibs.md",
-    "books-to-read/current-books/software-architecture/software-architecture-cesare/softwarearchitecture_Cesare Pautasso - Software Architecture_ visual lecture notes-Cesare Pautasso (2023)",
-    "books-to-read/current-books/software-architecture/software-architecture-cesare/softwarearchitecture_Cesare Pautasso - Software Architecture_ visual lecture notes-Cesare Pautasso (2023).pdf",
-    "PhD/papers/top-cited-papers/relavant-papers.md",
     "PhD/papers/top-cited-papers/related-authors.md",
-    "___links.md",
-    "PhD/papers/top-cited-papers",
-    "_____thoughts.md",
     "PhD/papers/thesis/predicting-and-manipulating-the-difficulty-of-text-completion/predicting-and-manipulating-the-difficulty-of-text-completion-exercises-for-language-learning.md",
-    "PhD/deadlines.md",
     "PhD/thoughts/thomas.md",
     "PhD/thoughts/using_grew_and_UD_tags.md",
-    "PhD/thoughts/lexical_profiling_brainstorming.pdf",
     "PhD/thoughts/how errant annoation tool in the efcamdat.md",
     "PhD/thoughts/with digital learning contexts becoming.md",
     "PhD/thoughts/meetings with thomas.md",
-    "PhD/thoughts/check previous aied conference papers.md",
-    "PhD/thoughts/week-12-12-2022.md",
-    "PhD/thoughts/General Call for Papers (Main Track)The 24th International Conference on Artificial Intelligence in Education (AIED 2023).md",
-    "PhD/submissions/Workshop-on-Profiling-second-language-vocabulary-and-grammar-2023/submission.md",
-    "PhD/papers/thesis/modelling-and-selection-of-context-for-better-synonym-acquistion/overview.md",
-    "PhD/papers/thesis/a-language-learning-framework-based-on-macaronic-texts/phd_RENDUCHINTALA-DISSERTATION-2020.pdf",
-    "PhD/submissions/Workshop-on-Profiling-second-language-vocabulary-and-grammar-2023/presentation.md",
-    "PhD/submissions/peronalizing-bert-for-l2-prediciton/LDK_2023_predicting_language_production_of_second_language_learners.pdf",
-    "p-extenders.md",
-    "spanish_vocab.md",
-    "makeurbook/ds_Building your Diet using Artificial Intelligence, with Python _ by Piero Paialunga _ Towards Data Science.pdf",
-    "makeurbook/Unconfirmed 622854.crdownload",
-    "books-to-read/current-books/modern-ui/mastering-react-test-driven-development/react_Daniel Irvine - Mastering React Test-Driven Development_ Build simple and maintainable web apps with React, Redux, and GraphQL, 2nd Edition-Packt Publishing (2022).pdf",
-    "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/syntax-representation-in-word-embeddings-and-neural-networks-–-a-survey.pdf",
-    "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/_bibs.md",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/training_phase.png",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/training_phase.jpeg",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/students_selection.png",
-    "PhD/submissions/peronalizing-bert-for-l2-prediciton/to-doso.md",
-    "PhD/submissions/peronalizing-bert-for-l2-prediciton/ideas.md",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/ldk-experiment-2023.svg",
-    "PhD/submissions/peronalizing-bert-for-l2-prediciton/related work.md",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/bestmodel.png",
     "Untitled.canvas",
     "Untitled 2.canvas",

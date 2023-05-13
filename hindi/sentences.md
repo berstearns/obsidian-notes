@@ -1,3 +1,13 @@
+# 12/05/2023 
+वे बच्चे कल दिल्ली में थे। those kids were in delhi yesterday
+मुझे थोड़ी हिन्दी अथी है। I know a little hindi
+सब दिल्ली में हाई । everyone is in delhi
+
+## 11/05/2023
+आज ट्रेन दस मिनट **लेट** है। The train is ten minutes behind today.
+हमने नदी के किनारे **सैर** करी।We took a walk along the river.
+उसका चेहरा **चमक** उठा। Her face lit up.
+
 ## 10/05/2023
 मैं **नहीं** समझा। I did not understand.
 मैं ज्योतिष **हूँ** | I am an astrologer.
