@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "ae4b41574a0d5655",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PhD/papers/thesis/predicting-and-manipulating-the-difficulty-of-text-completion/DissertationBeinborn_publishedVersion_September20_online.pdf"
-              }
-            }
-          },
-          {
             "id": "c70dac6d7843d2ce",
             "type": "leaf",
             "state": {
@@ -41,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PhD/papers/thesis/predicting-and-manipulating-the-difficulty-of-text-completion/DissertationBeinborn_publishedVersion_September20_online.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,15 +125,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae4b41574a0d5655",
+  "active": "f9f9ce51f9f6dfd9",
   "lastOpenFiles": [
+    "books-to-read/current-books/modern-ui/typescript-for-begginers/ts_Sufyan bin Uzayr - TypeScript for Beginners_ The Ultimate Guide-CRC Press (2022).pdf",
+    "books-to-read/current-books/modern-ui/typescript-for-begginers",
+    "PhD/papers/thesis/predicting-and-manipulating-the-difficulty-of-text-completion/DissertationBeinborn_publishedVersion_September20_online.pdf",
+    "books-to-read/current-books/modern-ui/Untitled.md",
     "books-to-read/current-books/modern-ui/mastering-typescript-enterprise-ready-modular-web-apps.md",
     "books-to-read/current-books/modern-ui/learning-typescript/typescript_Josh Goldberg - Learning TypeScript_ Enhance Your Web Development Skills Using Type-Safe JavaScript-O'Reilly Media (2022).pdf",
     "books-to-read/current-books/modern-ui/learning-typescript",
     "books-to-read/current-books/modern-ui/learn-react-with-typescript/react_Carl Rippon - Learn React with TypeScript_ A beginner's guide to reactive web development with React 18 and TypeScript,-Packt Publishing (2023).pdf",
     "_____thoughts.md",
     "hindi/sentences.md",
-    "PhD/papers/thesis/predicting-and-manipulating-the-difficulty-of-text-completion/DissertationBeinborn_publishedVersion_September20_online.pdf",
     "___links.md",
     "python-standard-library.md",
     "PhD/__links.md",
@@ -154,7 +145,6 @@
     "PhD/papers/3501385.3543957.pdf",
     "PhD/papers/Unconfirmed 276126.crdownload",
     "PhD/papers/NeurIPS-2022-training-language-models-to-follow-instructions-with-human-feedback-Paper-Conference.pdf",
-    "PhD/papers/Unconfirmed 467514.crdownload",
     "leetcode.md",
     "PhD/deadlines.md",
     "PhD/thomas-project/overview.md",
@@ -173,7 +163,6 @@
     "PhD/thoughts/thomas.md",
     "PhD/thoughts/using_grew_and_UD_tags.md",
     "PhD/thoughts/how errant annoation tool in the efcamdat.md",
-    "PhD/thoughts/with digital learning contexts becoming.md",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/training_phase.png",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/training_phase.jpeg",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/students_selection.png",
