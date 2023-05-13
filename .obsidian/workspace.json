@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books-to-read/current-books/modern-ui/mastering-typescript-enterprise-ready-modular-web-apps.md",
+                "file": "PhD/papers/thesis/predicting-and-manipulating-the-difficulty-of-text-completion/DissertationBeinborn_publishedVersion_September20_online.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,12 +137,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f9f9ce51f9f6dfd9",
+  "active": "ae4b41574a0d5655",
   "lastOpenFiles": [
+    "books-to-read/current-books/modern-ui/mastering-typescript-enterprise-ready-modular-web-apps.md",
     "books-to-read/current-books/modern-ui/learning-typescript/typescript_Josh Goldberg - Learning TypeScript_ Enhance Your Web Development Skills Using Type-Safe JavaScript-O'Reilly Media (2022).pdf",
     "books-to-read/current-books/modern-ui/learning-typescript",
     "books-to-read/current-books/modern-ui/learn-react-with-typescript/react_Carl Rippon - Learn React with TypeScript_ A beginner's guide to reactive web development with React 18 and TypeScript,-Packt Publishing (2023).pdf",
-    "books-to-read/current-books/modern-ui/mastering-typescript-enterprise-ready-modular-web-apps.md",
     "_____thoughts.md",
     "hindi/sentences.md",
     "PhD/papers/thesis/predicting-and-manipulating-the-difficulty-of-text-completion/DissertationBeinborn_publishedVersion_September20_online.pdf",
@@ -155,7 +155,6 @@
     "PhD/papers/Unconfirmed 276126.crdownload",
     "PhD/papers/NeurIPS-2022-training-language-models-to-follow-instructions-with-human-feedback-Paper-Conference.pdf",
     "PhD/papers/Unconfirmed 467514.crdownload",
-    "PhD/papers/ijcl.14086.oke.pdf",
     "leetcode.md",
     "PhD/deadlines.md",
     "PhD/thomas-project/overview.md",
