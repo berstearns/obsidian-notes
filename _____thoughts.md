@@ -1,7 +1,32 @@
+## 17/05/2023
+
+https://hackernoon.com/understanding-session-management-using-react-router-v6
+
+https://www.youtube.com/watch?v=EqNJTVUXugM
+https://github.com/blue-yonder/tsfresh
+
+ve se vc consegue preencher no site: https://book.cleanbnb.net/guest/my-reservation?tag=92f77027b7969543feb56643c9acbf82&lang=en
+![[Screenshot 2023-05-16 at 09.48.48.png]]
+
+
+https://www.youtube.com/watch?v=PGSba51aRYU
+https://www.youtube.com/watch?v=RVFAyFWO4go
+https://www.youtube.com/watch?v=nDGA3km5He4
+https://www.youtube.com/watch?v=pvrKHpXGO8E
+
+
+2 year goal
+1 year goal
+monthly goal
+weekly goal
+daily goal
+right now
+
+https://fncbook.github.io/fnc/frontmatter.html
+
 https://arxiv.org/abs/2101.08231
 https://arxiv.org/abs/2212.00138
 https://www.proquest.com/docview/2603407508?pq-origsite=gscholar&fromopenview=true
-
 
 
 fep scheme to john 
@@ -15,20 +40,7 @@ drink and eat earlier to reach goals before sleep
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4354422
 
-6 - 9 
-me
-pavan - c
-rahul -c
-tarek - c
-raj - c
-renato - c
-~ kellon
-~ eddie
-~ jun
-~~kevlyn~~
-~~lukazs~~
-~~annanda~~
-~~felipe~~ 
+
 ## 11/05/2023
 With a degree in Applied Mathematics and over 7 years of experience working on both AI research and Industry projects I developed a proven track record of executing end-to-end data analytics projects from understanding research topics and implementation to deploying them into small products. I developed a true passion for being innovative by experimenting new ideas that can prove to be impactful and translate complex research topics into practical implementations. I am a life-long learner excited about technology, even though my career focused mostly in Data Science and specifically in Natural Language Processing projects, I am always open-minded and motivated to learn about new domains, programming languages, paradigms and frameworks, broadening my skills apart from data science.
 

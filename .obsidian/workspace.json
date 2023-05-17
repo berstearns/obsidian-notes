@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bd84edde771977dd",
+        "id": "f7d8b1b486de579a",
         "type": "tabs",
         "children": [
           {
-            "id": "6b3ee29e4af180ab",
+            "id": "35a0e5e0951478fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books-to-read/current-books/modern-ui/mastering-typescript-enterprise-ready-modular-web-apps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c70dac6d7843d2ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books-to-read/current-books/modern-ui/mastering-typescript-enterprise-ready-modular-web-apps.md",
+                "file": "_____thoughts.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d11ca8d65eee8a1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -97,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_____thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,27 +122,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f9f9ce51f9f6dfd9",
+  "active": "35a0e5e0951478fe",
   "lastOpenFiles": [
+    "___links.md",
+    "hindi/sentences.md",
+    "books-to-read/current-books/modern-ui/mastering-typescript-enterprise-ready-modular-web-apps.md",
+    "_____thoughts.md",
+    "books-to-read/c-cpp/other/Screenshot 2023-05-16 at 09.48.48.png",
+    "competitive programming.md",
+    "leetcode.md",
+    "books-to-read/c-cpp/other/Screenshot 2023-05-15 at 15.50.46.png",
+    "books-to-read/current-books/modern-ui/Untitled.md",
     "books-to-read/current-books/modern-ui/typescript-for-begginers/ts_Sufyan bin Uzayr - TypeScript for Beginners_ The Ultimate Guide-CRC Press (2022).pdf",
     "books-to-read/current-books/modern-ui/typescript-for-begginers",
     "PhD/papers/thesis/predicting-and-manipulating-the-difficulty-of-text-completion/DissertationBeinborn_publishedVersion_September20_online.pdf",
-    "books-to-read/current-books/modern-ui/Untitled.md",
-    "books-to-read/current-books/modern-ui/mastering-typescript-enterprise-ready-modular-web-apps.md",
     "books-to-read/current-books/modern-ui/learning-typescript/typescript_Josh Goldberg - Learning TypeScript_ Enhance Your Web Development Skills Using Type-Safe JavaScript-O'Reilly Media (2022).pdf",
     "books-to-read/current-books/modern-ui/learning-typescript",
     "books-to-read/current-books/modern-ui/learn-react-with-typescript/react_Carl Rippon - Learn React with TypeScript_ A beginner's guide to reactive web development with React 18 and TypeScript,-Packt Publishing (2023).pdf",
-    "_____thoughts.md",
-    "hindi/sentences.md",
-    "___links.md",
     "python-standard-library.md",
     "PhD/__links.md",
     "PhD/papers/3501385.3543957 (1).pdf",
     "PhD/papers/Unconfirmed 527469.crdownload",
     "PhD/papers/3501385.3543957.pdf",
     "PhD/papers/Unconfirmed 276126.crdownload",
-    "PhD/papers/NeurIPS-2022-training-language-models-to-follow-instructions-with-human-feedback-Paper-Conference.pdf",
-    "leetcode.md",
     "PhD/deadlines.md",
     "PhD/thomas-project/overview.md",
     "german/sentences.md",
@@ -162,7 +161,6 @@
     "PhD/papers/thesis/predicting-and-manipulating-the-difficulty-of-text-completion/predicting-and-manipulating-the-difficulty-of-text-completion-exercises-for-language-learning.md",
     "PhD/thoughts/thomas.md",
     "PhD/thoughts/using_grew_and_UD_tags.md",
-    "PhD/thoughts/how errant annoation tool in the efcamdat.md",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/training_phase.png",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/training_phase.jpeg",
     "PhD/submissions/peronalizing-bert-for-l2-prediciton/references/students_selection.png",

@@ -1,3 +1,39 @@
+## 17/04/2023
+chrome://newtab/
+https://blocked.freedom.to/
+https://hackernoon.com/understanding-session-management-using-react-router-v6
+https://github.com/antonkalik/architecture-application-boilerplate/blob/main/src/components/ProtectedRoute.js
+https://app.planetscale.com/bernardo-stearns
+https://planetscale.com/pricing
+https://app.speechify.com/?page=1
+https://lightning.ai/pages/courses/deep-learning-fundamentals/9.0-overview-techniques-for-speeding-up-model-training/
+https://reactrouter.com/en/main/hooks/use-outlet-context
+https://colinhacks.com/essays/building-a-spa-with-nextjs
+https://github.com/colinhacks/nextjs-react-router
+https://nextjs.org/learn/basics/navigate-between-pages
+http://localhost:3001/
+https://mail.google.com/mail/u/0/#inbox
+https://blog.javascripttoday.com/blog/create-react-app-alternatives/
+https://vercel.com/new
+
+https://www.youtube.com/watch?v=brcHK3P6ChQ&list=PL0Zuz27SZ-6PRCpm9clX0WiBEMB70FWwd
+https://hackernoon.com/understanding-session-management-using-react-router-v6
+https://outlook.office365.com/mail/inbox/id/AAQkAGJjYzU0YTc5LWEyZjYtNDlhYi04MTgyLTk4NWNmMWZhZDNjNQAQAIfdkVbSilZFpB3lekDal1Q%3D
+https://nuigalwayie.sharepoint.com/sites/rdc/SitePages/evm-spform-modern.aspx?ListUrl=%2Fsites%2Frdc%2FLists%2FsapiensEventsETM&FormType=1&ItemID=385&CT=1684328559311&OR=OWA-NT&CID=18f5e213-aa04-3eb4-6dc1-7bc1ccd38cac
+https://stackoverflow.com/questions/17900485/convert-an-output-to-string
+https://superuser.com/questions/1025295/pipe-arguments-into-open-command
+https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6
+https://github.com/muesli/duf
+https://github.com/junegunn/fzf
+https://github.com/casey/just
+https://github.com/stedolan/jq
+https://www.jedsoft.org/most/
+https://github.com/aristocratos/bpytop
+https://github.com/browsh-org/browsh
+https://docs.docker.com/config/daemon/start/
+https://apple.stackexchange.com/questions/373888/how-do-i-start-the-docker-daemon-on-macos
+https://github.com/abiosoft/colima
+
 ## 12/05/2023
 https://arxiv.org/abs/2305.03210
 

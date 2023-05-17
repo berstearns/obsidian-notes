@@ -1,8 +1,10 @@
+
 https://www.youtube.com/watch?v=pRyFZIaKegA&list=PLQpVsaqBj4RLwXMZ9LaAFf4rVowiC3ZcG medium problems
 https://www.youtube.com/watch?v=8wysIxzqgPI
 https://www.youtube.com/@NeetCodeIO/playlists
 ## EASY problems
 https://www.youtube.com/watch?v=zdMhGxRWutQ&list=PLQpVsaqBj4RIJdYW6Y-iAswxCZeocfoRW easy problems
+https://www.youtube.com/watch?v=9UtInBqnCgA&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ
 ## Arrays
 https://leetcode.com/tag/array/
 1. https://leetcode.com/problems/concatenation-of-array/

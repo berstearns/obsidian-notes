@@ -1,3 +1,11 @@
+## 17/05/2023
+
+तालाब में पानी है। there is water in the pond 
+आमिर अपने परिवार से प्यार करता है । amir loves his family
+## 14/05/2023
+क्या तुम राज को जानती हो  do you know raj ? 
+ये लोग कह रहे है की नेहा नहीं सुन रही है।These people are saying that Neha is not listening.
+मुखे यह गाना पसंद है 
 # 12/05/2023 
 वे बच्चे कल दिल्ली में थे। those kids were in delhi yesterday
 मुझे थोड़ी हिन्दी अथी है। I know a little hindi
